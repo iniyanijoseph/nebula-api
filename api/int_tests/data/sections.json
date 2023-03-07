@@ -1,0 +1,1596 @@
+[{
+  "_id": {
+    "$oid": "623fedecbf28b6d88d6c7712"
+  },
+  "section_number": "001",
+  "course_reference": {
+    "$oid": "62414c43e27d0c74c4094562"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231088b84ebaf3e8f1bbf5b"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "24074",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "1:00pm",
+      "end_time": "2:15pm",
+      "location": {
+        "building": "ECSW",
+        "room": "1.365",
+        "map_uri": "https://locator.utdallas.edu/ECSW_1.365"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl93072",
+  "grade_distribution": [
+    11,
+    13,
+    3,
+    6,
+    6,
+    0,
+    2,
+    4,
+    0,
+    3,
+    0,
+    0,
+    3,
+    1
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fededbf28b6d88d6c7714"
+  },
+  "section_number": "002",
+  "course_reference": {
+    "$oid": "62414c43e27d0c74c4094562"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623fededbf28b6d88d6c7715"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "24119",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "4:00pm",
+      "end_time": "5:15pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl88122",
+  "grade_distribution": [
+    16,
+    5,
+    9,
+    2,
+    3,
+    2,
+    2,
+    0,
+    1,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fededbf28b6d88d6c7716"
+  },
+  "section_number": "003",
+  "course_reference": {
+    "$oid": "62414c43e27d0c74c4094562"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231096684ebaf3e8f1bc154"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "28277",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "11:30am",
+      "end_time": "12:45pm",
+      "location": {
+        "building": "ECSW",
+        "room": "1.355",
+        "map_uri": "https://locator.utdallas.edu/ECSW_1.355"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl89510",
+  "grade_distribution": [
+    4,
+    3,
+    5,
+    3,
+    4,
+    6,
+    2,
+    3,
+    2,
+    1,
+    2,
+    0,
+    4,
+    3
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fededbf28b6d88d6c7717"
+  },
+  "section_number": "004",
+  "course_reference": {
+    "$oid": "62414c43e27d0c74c4094562"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231096684ebaf3e8f1bc154"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "28278",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "2:30pm",
+      "end_time": "3:45pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl89521",
+  "grade_distribution": [
+    1,
+    2,
+    2,
+    3,
+    8,
+    3,
+    2,
+    1,
+    4,
+    1,
+    2,
+    1,
+    2,
+    2
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fededbf28b6d88d6c7718"
+  },
+  "section_number": "005",
+  "course_reference": {
+    "$oid": "62414c43e27d0c74c4094562"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "62417a827a5c14bdce6aeb40"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "24992",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "4:00pm",
+      "end_time": "5:15pm",
+      "location": {
+        "building": "ECSW",
+        "room": "3.250",
+        "map_uri": "https://locator.utdallas.edu/ECSW_3.250"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl90166",
+  "grade_distribution": [
+    11,
+    9,
+    11,
+    4,
+    2,
+    6,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    2,
+    1
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedeebf28b6d88d6c7719"
+  },
+  "section_number": "501",
+  "course_reference": {
+    "$oid": "62414c43e27d0c74c4094562"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231094584ebaf3e8f1bc109"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "28279",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "5:30pm",
+      "end_time": "6:45pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl88395",
+  "grade_distribution": [
+    3,
+    12,
+    6,
+    4,
+    4,
+    3,
+    3,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedeebf28b6d88d6c771a"
+  },
+  "section_number": "502",
+  "course_reference": {
+    "$oid": "62414c43e27d0c74c4094562"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623fededbf28b6d88d6c7715"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "28346",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "5:30pm",
+      "end_time": "6:45pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl88123",
+  "grade_distribution": [
+    14,
+    6,
+    10,
+    4,
+    4,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    2
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedeebf28b6d88d6c771b"
+  },
+  "section_number": "503",
+  "course_reference": {
+    "$oid": "62414c43e27d0c74c4094562"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623fc346b8bc16815e8679a9"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "30219",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "5:30pm",
+      "end_time": "6:45pm",
+      "location": {
+        "building": "CB3",
+        "room": "1.302",
+        "map_uri": "https://locator.utdallas.edu/CB3_1.302"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl92791",
+  "grade_distribution": [
+    7,
+    13,
+    5,
+    2,
+    3,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    0,
+    9,
+    1
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedefbf28b6d88d6c771c"
+  },
+  "section_number": "001",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623107d284ebaf3e8f1bbda9"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "23925",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "8:30am",
+      "end_time": "9:45am",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl93716",
+  "grade_distribution": [
+    2,
+    4,
+    2,
+    2,
+    4,
+    1,
+    1,
+    2,
+    0,
+    0,
+    1,
+    0,
+    1,
+    1
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedefbf28b6d88d6c771e"
+  },
+  "section_number": "002",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231091b84ebaf3e8f1bc0ab"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "23926",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "10:00am",
+      "end_time": "11:15am",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl92909",
+  "grade_distribution": [
+    6,
+    2,
+    1,
+    2,
+    1,
+    3,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    4
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedefbf28b6d88d6c771f"
+  },
+  "section_number": "003",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623fc342b8bc16815e86799e"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "24109",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "1:00pm",
+      "end_time": "2:15pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl90867",
+  "grade_distribution": [
+    21,
+    11,
+    6,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf0bf28b6d88d6c7720"
+  },
+  "section_number": "004",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231080d84ebaf3e8f1bbe33"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "23927",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "2:30pm",
+      "end_time": "3:45pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl92147",
+  "grade_distribution": [
+    0,
+    9,
+    3,
+    1,
+    7,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf0bf28b6d88d6c7721"
+  },
+  "section_number": "005",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623fc343b8bc16815e8679a1"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "28280",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "11:30am",
+      "end_time": "12:45pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.311",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.311"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl92455",
+  "grade_distribution": [
+    0,
+    10,
+    11,
+    6,
+    4,
+    2,
+    3,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf0bf28b6d88d6c7722"
+  },
+  "section_number": "006",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231097284ebaf3e8f1bc170"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "24775",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "8:30am",
+      "end_time": "9:45am",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl91675",
+  "grade_distribution": [
+    11,
+    5,
+    6,
+    0,
+    2,
+    1,
+    1,
+    1,
+    0,
+    0,
+    2,
+    1,
+    0,
+    1
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf1bf28b6d88d6c7723"
+  },
+  "section_number": "007",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231094b84ebaf3e8f1bc117"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "23928",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "1:00pm",
+      "end_time": "2:15pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.311",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.311"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl92850",
+  "grade_distribution": [
+    2,
+    7,
+    6,
+    3,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    5,
+    3
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf1bf28b6d88d6c7724"
+  },
+  "section_number": "008",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231094b84ebaf3e8f1bc117"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "24427",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "10:00am",
+      "end_time": "11:15am",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl92851",
+  "grade_distribution": [
+    4,
+    6,
+    0,
+    1,
+    1,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    7
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf1bf28b6d88d6c7725"
+  },
+  "section_number": "009",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231080d84ebaf3e8f1bbe33"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "24639",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "10:00am",
+      "end_time": "11:15am",
+      "location": {
+        "building": "ECSS",
+        "room": "2.203",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.203"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl92148",
+  "grade_distribution": [
+    2,
+    17,
+    1,
+    2,
+    12,
+    1,
+    0,
+    3,
+    0,
+    0,
+    1,
+    0,
+    0,
+    3
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf2bf28b6d88d6c7726"
+  },
+  "section_number": "010",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623fc342b8bc16815e86799e"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "24692",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "11:30am",
+      "end_time": "12:45pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl90868",
+  "grade_distribution": [
+    26,
+    6,
+    3,
+    2,
+    2,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf2bf28b6d88d6c7727"
+  },
+  "section_number": "011",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623108a684ebaf3e8f1bbf9d"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "24771",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "1:00pm",
+      "end_time": "2:15pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl93000",
+  "grade_distribution": [
+    4,
+    5,
+    9,
+    3,
+    6,
+    2,
+    0,
+    0,
+    1,
+    2,
+    0,
+    0,
+    3,
+    1
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf2bf28b6d88d6c7728"
+  },
+  "section_number": "012",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623fc346b8bc16815e8679a9"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "28347",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "12:00pm",
+      "end_time": "12:50pm",
+      "location": {
+        "building": "JO",
+        "room": "4.614",
+        "map_uri": "https://locator.utdallas.edu/JO_4.614"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl93545",
+  "grade_distribution": [
+    8,
+    5,
+    5,
+    0,
+    3,
+    2,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    3,
+    2
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf3bf28b6d88d6c7729"
+  },
+  "section_number": "013",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231097584ebaf3e8f1bc177"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "28281",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "11:30am",
+      "end_time": "12:45pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.306",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.306"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl89816",
+  "grade_distribution": [
+    19,
+    15,
+    7,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    1
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf3bf28b6d88d6c772a"
+  },
+  "section_number": "014",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623fc346b8bc16815e8679a9"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "28348",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "3:00pm",
+      "end_time": "3:50pm",
+      "location": {
+        "building": "CB3",
+        "room": "1.302",
+        "map_uri": "https://locator.utdallas.edu/CB3_1.302"
+      },
+      "meeting_days": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl93546",
+  "grade_distribution": [
+    4,
+    3,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    1
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf3bf28b6d88d6c772b"
+  },
+  "section_number": "015",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "623108a684ebaf3e8f1bbf9d"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "28282",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "4:00pm",
+      "end_time": "5:15pm",
+      "location": {
+        "building": "ECSS",
+        "room": "2.312",
+        "map_uri": "https://locator.utdallas.edu/ECSS_2.312"
+      },
+      "meeting_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": "https://dox.utdallas.edu/syl93001",
+  "grade_distribution": [
+    2,
+    2,
+    3,
+    4,
+    8,
+    0,
+    1,
+    4,
+    0,
+    0,
+    0,
+    0,
+    3,
+    2
+  ],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fedf4bf28b6d88d6c772c"
+  },
+  "section_number": "701",
+  "course_reference": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "section_corequisites": {
+    "type": "collection",
+    "options": []
+  },
+  "academic_session": {
+    "name": "20S",
+    "start_date": "January 13, 2020",
+    "end_date": "May 8, 2020"
+  },
+  "professors": [
+    {
+      "$oid": "6231097584ebaf3e8f1bc177"
+    },
+    {
+      "$oid": "6231094b84ebaf3e8f1bc117"
+    }
+  ],
+  "teaching_assistants": [],
+  "internal_class_number": "24877",
+  "instruction_mode": "Face-to-Face",
+  "meetings": [
+    {
+      "start_date": "January 13, 2020",
+      "end_date": "April 30, 2020",
+      "start_time": "tbd",
+      "end_time": "tbd",
+      "location": {
+        "building": null,
+        "room": null,
+        "map_uri": "https://locator.utdallas.edu/"
+      },
+      "meeting_days": null,
+      "modality": null
+    }
+  ],
+  "core_flags": [],
+  "syllabus_uri": null,
+  "grade_distribution": [],
+  "attributes": {
+    "raw_attributes": [
+      "No Audit Allowed"
+    ]
+  },
+  "__v": 0
+}]

@@ -1,0 +1,500 @@
+[{
+  "_id": {
+    "$oid": "62414c43e27d0c74c4094562"
+  },
+  "course_number": "1336",
+  "subject_prefix": "CS",
+  "title": "Programming Fundamentals",
+  "description": "CS 1336 - Programming Fundamentals (3 semester credit hours) Introduces the fundamental concepts of structured programming. Topics include software development methodology, data types, control structures, functions, arrays, and the mechanics of running, testing, and debugging. Programming language of choice is C. The class is open to students in the School of Engineering and Computer Science only. May not be used to satisfy degree requirements for majors in the School of Engineering and Computer Science. Note that a grade of C- or better in this class is required in order to register for (CS 1324 or CS 1325); a grade of C or better in this class is required to register for (CE 1337 or CS 1337 or TE 1337). Corequisite: CS 1136. (3-0) S",
+  "school": "Erik Jonsson School of Engineering and Computer Science",
+  "credit_hours": "3",
+  "class_level": "Undergraduate",
+  "activity_type": "Lecture",
+  "grading": "Graded - Undergraduate",
+  "internal_course_number": "003432",
+  "prerequisites": {
+    "type": "collection",
+    "options": [],
+    "required": 0
+  },
+  "corequisites": {
+    "type": "collection",
+    "options": [
+      {
+        "type": "other",
+        "condition": null,
+        "description": "CS 1136.101"
+      },
+      {
+        "type": "collection",
+        "options": [
+          {
+            "type": "other",
+            "condition": null,
+            "description": "May not be used to satisfy degree requirements for majors in the School of Engineering"
+          },
+          {
+            "type": "other",
+            "condition": null,
+            "description": "Computer Science"
+          }
+        ],
+        "required": 2
+      },
+      {
+        "type": "other",
+        "condition": null,
+        "description": "Check class notes to make sure you are selecting the matching corequisite section."
+      }
+    ],
+    "required": 3
+  },
+  "co_or_pre_requisites": {
+    "type": "collection",
+    "options": [],
+    "required": 0
+  },
+  "sections": [
+    {
+      "$oid": "62414c43e27d0c74c4094561"
+    },
+    {
+      "$oid": "62414c44e27d0c74c4094564"
+    },
+    {
+      "$oid": "62414c44e27d0c74c4094565"
+    },
+    {
+      "$oid": "62414c45e27d0c74c4094566"
+    },
+    {
+      "$oid": "62414c45e27d0c74c4094567"
+    },
+    {
+      "$oid": "62414c45e27d0c74c4094568"
+    },
+    {
+      "$oid": "62414c46e27d0c74c4094569"
+    },
+    {
+      "$oid": "62414c46e27d0c74c409456a"
+    },
+    {
+      "$oid": "62414c47e27d0c74c409456b"
+    },
+    {
+      "$oid": "62414c47e27d0c74c409456c"
+    },
+    {
+      "$oid": "62414c47e27d0c74c409456d"
+    },
+    {
+      "$oid": "62414c48e27d0c74c409456e"
+    },
+    {
+      "$oid": "62414c48e27d0c74c409456f"
+    },
+    {
+      "$oid": "62414c49e27d0c74c4094570"
+    },
+    {
+      "$oid": "62414c49e27d0c74c4094571"
+    },
+    {
+      "$oid": "62414c49e27d0c74c4094572"
+    },
+    {
+      "$oid": "62414c4ae27d0c74c4094573"
+    },
+    {
+      "$oid": "62414c4ae27d0c74c4094574"
+    },
+    {
+      "$oid": "62414c4ae27d0c74c4094575"
+    },
+    {
+      "$oid": "62414c4be27d0c74c4094576"
+    },
+    {
+      "$oid": "624145030cef69f0ebc9c4d2"
+    },
+    {
+      "$oid": "624145030cef69f0ebc9c4d4"
+    },
+    {
+      "$oid": "624145030cef69f0ebc9c4d5"
+    },
+    {
+      "$oid": "624145040cef69f0ebc9c4d6"
+    },
+    {
+      "$oid": "624145040cef69f0ebc9c4d7"
+    },
+    {
+      "$oid": "62410474ba30b4ebd5adbb96"
+    },
+    {
+      "$oid": "62410474ba30b4ebd5adbb98"
+    },
+    {
+      "$oid": "62410474ba30b4ebd5adbb99"
+    },
+    {
+      "$oid": "62410475ba30b4ebd5adbb9a"
+    },
+    {
+      "$oid": "62410475ba30b4ebd5adbb9b"
+    },
+    {
+      "$oid": "6241e7cba698d6bd4b833b4d"
+    },
+    {
+      "$oid": "6241e7cba698d6bd4b833b4f"
+    },
+    {
+      "$oid": "624077d8ddc4b627a73c00cc"
+    },
+    {
+      "$oid": "624077d8ddc4b627a73c00ce"
+    },
+    {
+      "$oid": "624077d9ddc4b627a73c00cf"
+    },
+    {
+      "$oid": "624077d9ddc4b627a73c00d1"
+    },
+    {
+      "$oid": "624077d9ddc4b627a73c00d2"
+    },
+    {
+      "$oid": "624077daddc4b627a73c00d3"
+    },
+    {
+      "$oid": "624175404f665f12b9425d03"
+    },
+    {
+      "$oid": "624175414f665f12b9425d05"
+    },
+    {
+      "$oid": "623fedecbf28b6d88d6c7712"
+    },
+    {
+      "$oid": "623fededbf28b6d88d6c7714"
+    },
+    {
+      "$oid": "623fededbf28b6d88d6c7716"
+    },
+    {
+      "$oid": "623fededbf28b6d88d6c7717"
+    },
+    {
+      "$oid": "623fededbf28b6d88d6c7718"
+    },
+    {
+      "$oid": "623fedeebf28b6d88d6c7719"
+    },
+    {
+      "$oid": "623fedeebf28b6d88d6c771a"
+    },
+    {
+      "$oid": "623fedeebf28b6d88d6c771b"
+    },
+    {
+      "$oid": "6242550922d0f476459151c7"
+    },
+    {
+      "$oid": "6242550922d0f476459151c9"
+    },
+    {
+      "$oid": "6242a97086ab87d6f6d9934b"
+    },
+    {
+      "$oid": "6242a97086ab87d6f6d9934d"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed5"
+    }
+  ],
+  "lecture_contact_hours": "3",
+  "laboratory_contact_hours": "0",
+  "offering_frequency": "S",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62414c4be27d0c74c4094578"
+  },
+  "course_number": "1337",
+  "subject_prefix": "CS",
+  "title": "Computer Science I",
+  "description": "CS 1337 - Computer Science I (3 semester credit hours) Review of control structures and data types with emphasis on structured data types. Applies the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. Includes basic analysis of algorithms, searching and sorting techniques, and an introduction to software engineering. Programming language of choice is C/C++. Students will also be registered for an exam section. Prerequisite: CS 1336 with a grade of C or better or equivalent. (Same as CE 1337 and TE 1337) (3-0) S",
+  "school": "Erik Jonsson School of Engineering and Computer Science",
+  "credit_hours": "3",
+  "class_level": "Undergraduate",
+  "activity_type": "Lecture",
+  "grading": "Graded - Undergraduate",
+  "internal_course_number": "003433",
+  "prerequisites": {
+    "type": "collection",
+    "options": [
+      {
+        "type": "course",
+        "class_reference": "62414c43e27d0c74c4094562",
+        "minimum_grade": "C"
+      }
+    ],
+    "required": 1
+  },
+  "corequisites": {
+    "type": "collection",
+    "options": [],
+    "required": 0
+  },
+  "co_or_pre_requisites": {
+    "type": "collection",
+    "options": [],
+    "required": 0
+  },
+  "sections": [
+    {
+      "$oid": "62414c4be27d0c74c4094577"
+    },
+    {
+      "$oid": "62414c4ce27d0c74c4094579"
+    },
+    {
+      "$oid": "62414c4ce27d0c74c409457a"
+    },
+    {
+      "$oid": "62414c4de27d0c74c409457b"
+    },
+    {
+      "$oid": "62414c4de27d0c74c409457c"
+    },
+    {
+      "$oid": "62414c4de27d0c74c409457d"
+    },
+    {
+      "$oid": "62414c4ee27d0c74c409457e"
+    },
+    {
+      "$oid": "62414c4ee27d0c74c409457f"
+    },
+    {
+      "$oid": "624145040cef69f0ebc9c4d8"
+    },
+    {
+      "$oid": "624145050cef69f0ebc9c4da"
+    },
+    {
+      "$oid": "624145050cef69f0ebc9c4db"
+    },
+    {
+      "$oid": "624145050cef69f0ebc9c4dc"
+    },
+    {
+      "$oid": "624145050cef69f0ebc9c4dd"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4de"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4df"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4e0"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4e1"
+    },
+    {
+      "$oid": "624145070cef69f0ebc9c4e2"
+    },
+    {
+      "$oid": "624145070cef69f0ebc9c4e3"
+    },
+    {
+      "$oid": "62410475ba30b4ebd5adbb9c"
+    },
+    {
+      "$oid": "62410476ba30b4ebd5adbb9e"
+    },
+    {
+      "$oid": "62410476ba30b4ebd5adbb9f"
+    },
+    {
+      "$oid": "62410477ba30b4ebd5adbba0"
+    },
+    {
+      "$oid": "62410477ba30b4ebd5adbba1"
+    },
+    {
+      "$oid": "62410477ba30b4ebd5adbba2"
+    },
+    {
+      "$oid": "62410478ba30b4ebd5adbba3"
+    },
+    {
+      "$oid": "62410478ba30b4ebd5adbba4"
+    },
+    {
+      "$oid": "62410479ba30b4ebd5adbba5"
+    },
+    {
+      "$oid": "62410479ba30b4ebd5adbba6"
+    },
+    {
+      "$oid": "62410479ba30b4ebd5adbba7"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbba8"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbba9"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbbaa"
+    },
+    {
+      "$oid": "6241e7cba698d6bd4b833b50"
+    },
+    {
+      "$oid": "6241e7cca698d6bd4b833b52"
+    },
+    {
+      "$oid": "6241e7cca698d6bd4b833b53"
+    },
+    {
+      "$oid": "624077daddc4b627a73c00d4"
+    },
+    {
+      "$oid": "624077dbddc4b627a73c00d6"
+    },
+    {
+      "$oid": "624077dbddc4b627a73c00d7"
+    },
+    {
+      "$oid": "624077dcddc4b627a73c00d8"
+    },
+    {
+      "$oid": "624077dcddc4b627a73c00d9"
+    },
+    {
+      "$oid": "624077dcddc4b627a73c00da"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00db"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00dc"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00dd"
+    },
+    {
+      "$oid": "624077deddc4b627a73c00de"
+    },
+    {
+      "$oid": "624077deddc4b627a73c00df"
+    },
+    {
+      "$oid": "624077dfddc4b627a73c00e0"
+    },
+    {
+      "$oid": "624077dfddc4b627a73c00e1"
+    },
+    {
+      "$oid": "624077dfddc4b627a73c00e2"
+    },
+    {
+      "$oid": "624077e0ddc4b627a73c00e3"
+    },
+    {
+      "$oid": "624175414f665f12b9425d07"
+    },
+    {
+      "$oid": "624175414f665f12b9425d09"
+    },
+    {
+      "$oid": "624175414f665f12b9425d0a"
+    },
+    {
+      "$oid": "623fedefbf28b6d88d6c771c"
+    },
+    {
+      "$oid": "623fedefbf28b6d88d6c771e"
+    },
+    {
+      "$oid": "623fedefbf28b6d88d6c771f"
+    },
+    {
+      "$oid": "623fedf0bf28b6d88d6c7720"
+    },
+    {
+      "$oid": "623fedf0bf28b6d88d6c7721"
+    },
+    {
+      "$oid": "623fedf0bf28b6d88d6c7722"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7723"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7724"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7725"
+    },
+    {
+      "$oid": "623fedf2bf28b6d88d6c7726"
+    },
+    {
+      "$oid": "623fedf2bf28b6d88d6c7727"
+    },
+    {
+      "$oid": "623fedf2bf28b6d88d6c7728"
+    },
+    {
+      "$oid": "623fedf3bf28b6d88d6c7729"
+    },
+    {
+      "$oid": "623fedf3bf28b6d88d6c772a"
+    },
+    {
+      "$oid": "623fedf3bf28b6d88d6c772b"
+    },
+    {
+      "$oid": "623fedf4bf28b6d88d6c772c"
+    },
+    {
+      "$oid": "6242550a22d0f476459151ca"
+    },
+    {
+      "$oid": "6242550a22d0f476459151cc"
+    },
+    {
+      "$oid": "6242550b22d0f476459151cd"
+    },
+    {
+      "$oid": "6242550b22d0f476459151ce"
+    },
+    {
+      "$oid": "6242a97086ab87d6f6d9934e"
+    },
+    {
+      "$oid": "6242a97186ab87d6f6d99350"
+    },
+    {
+      "$oid": "6242a97186ab87d6f6d99351"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed7"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed9"
+    }
+  ],
+  "lecture_contact_hours": "3",
+  "laboratory_contact_hours": "0",
+  "offering_frequency": "S",
+  "__v": 0
+}]

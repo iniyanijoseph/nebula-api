@@ -1,0 +1,3638 @@
+[{
+  "_id": {
+    "$oid": "6231088b84ebaf3e8f1bbf5b"
+  },
+  "first_name": "Shyam",
+  "last_name": "Karrah",
+  "titles": [
+    "Senior Lecturer III - Computer Science"
+  ],
+  "email": "skarrah@utdallas.edu",
+  "phone_number": "972-883-4197",
+  "office": {
+    "building": "ECS",
+    "room": "3907",
+    "map_uri": "https://locator.utdallas.edu/ECS_3907"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/shyam.karrah",
+  "image_uri": "https://profiles.utdallas.edu/storage/media/199/conversions/6032_0_6311-medium.jpg",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c48e27d0c74c409456e"
+    },
+    {
+      "$oid": "624145030cef69f0ebc9c4d4"
+    },
+    {
+      "$oid": "623fedecbf28b6d88d6c7712"
+    },
+    {
+      "$oid": "62410474ba30b4ebd5adbb96"
+    },
+    {
+      "$oid": "624077d8ddc4b627a73c00cc"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fededbf28b6d88d6c7715"
+  },
+  "first_name": "Srimathi",
+  "last_name": "Srinivasan",
+  "titles": [],
+  "email": "sxs180206@utdallas.edu",
+  "phone_number": null,
+  "office": null,
+  "profile_uri": null,
+  "image_uri": null,
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "623fededbf28b6d88d6c7714"
+    },
+    {
+      "$oid": "623fedeebf28b6d88d6c771a"
+    },
+    {
+      "$oid": "624047b52e493a3184b49f9a"
+    },
+    {
+      "$oid": "624047f32e493a3184b49fa0"
+    },
+    {
+      "$oid": "624077d9ddc4b627a73c00cf"
+    },
+    {
+      "$oid": "6240a6a3ddc4b627a73c0708"
+    },
+    {
+      "$oid": "623ef45d93143dc133cc70db"
+    },
+    {
+      "$oid": "623ef45e93143dc133cc70de"
+    },
+    {
+      "$oid": "624101f2b04b136f307073b9"
+    },
+    {
+      "$oid": "624101f2b04b136f307073bb"
+    },
+    {
+      "$oid": "6242046b74a2cbf30530522b"
+    },
+    {
+      "$oid": "6242046c74a2cbf305305232"
+    },
+    {
+      "$oid": "6242dd0974a2cbf3053066d1"
+    },
+    {
+      "$oid": "6242dd0a74a2cbf3053066d5"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231096684ebaf3e8f1bc154"
+  },
+  "first_name": "Laurie",
+  "last_name": "Thompson",
+  "titles": [
+    "Senior Lecturer II - Computer Science"
+  ],
+  "email": "lthomp@utdallas.edu",
+  "phone_number": "972-883-6326",
+  "office": {
+    "building": "ECSS",
+    "room": "3.610",
+    "map_uri": "https://locator.utdallas.edu/ECSS_3.610"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/laurie.thompson",
+  "image_uri": "https://profiles.utdallas.edu/storage/media/371/conversions/13482_0_5951-medium.jpg",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c45e27d0c74c4094568"
+    },
+    {
+      "$oid": "62414c47e27d0c74c409456b"
+    },
+    {
+      "$oid": "62414c49e27d0c74c4094570"
+    },
+    {
+      "$oid": "624145000cef69f0ebc9c4c5"
+    },
+    {
+      "$oid": "624145030cef69f0ebc9c4d5"
+    },
+    {
+      "$oid": "623fededbf28b6d88d6c7716"
+    },
+    {
+      "$oid": "623fededbf28b6d88d6c7717"
+    },
+    {
+      "$oid": "62410471ba30b4ebd5adbb8b"
+    },
+    {
+      "$oid": "62410471ba30b4ebd5adbb8d"
+    },
+    {
+      "$oid": "624077d5ddc4b627a73c00c2"
+    },
+    {
+      "$oid": "624077d9ddc4b627a73c00d1"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231096684ebaf3e8f1bc154"
+  },
+  "first_name": "Laurie",
+  "last_name": "Thompson",
+  "titles": [
+    "Senior Lecturer II - Computer Science"
+  ],
+  "email": "lthomp@utdallas.edu",
+  "phone_number": "972-883-6326",
+  "office": {
+    "building": "ECSS",
+    "room": "3.610",
+    "map_uri": "https://locator.utdallas.edu/ECSS_3.610"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/laurie.thompson",
+  "image_uri": "https://profiles.utdallas.edu/storage/media/371/conversions/13482_0_5951-medium.jpg",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c45e27d0c74c4094568"
+    },
+    {
+      "$oid": "62414c47e27d0c74c409456b"
+    },
+    {
+      "$oid": "62414c49e27d0c74c4094570"
+    },
+    {
+      "$oid": "624145000cef69f0ebc9c4c5"
+    },
+    {
+      "$oid": "624145030cef69f0ebc9c4d5"
+    },
+    {
+      "$oid": "623fededbf28b6d88d6c7716"
+    },
+    {
+      "$oid": "623fededbf28b6d88d6c7717"
+    },
+    {
+      "$oid": "62410471ba30b4ebd5adbb8b"
+    },
+    {
+      "$oid": "62410471ba30b4ebd5adbb8d"
+    },
+    {
+      "$oid": "624077d5ddc4b627a73c00c2"
+    },
+    {
+      "$oid": "624077d9ddc4b627a73c00d1"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62417a827a5c14bdce6aeb40"
+  },
+  "first_name": "Priya",
+  "last_name": "Narayanasami",
+  "titles": [],
+  "email": "pxn173330@utdallas.edu",
+  "phone_number": null,
+  "office": null,
+  "profile_uri": null,
+  "image_uri": null,
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62417a827a5c14bdce6aeb3f"
+    },
+    {
+      "$oid": "623fedebbf28b6d88d6c770d"
+    },
+    {
+      "$oid": "623fededbf28b6d88d6c7718"
+    },
+    {
+      "$oid": "62410473ba30b4ebd5adbb92"
+    },
+    {
+      "$oid": "624047f12e493a3184b49f9b"
+    },
+    {
+      "$oid": "6240487b2e493a3184b49fcf"
+    },
+    {
+      "$oid": "624077d7ddc4b627a73c00c7"
+    },
+    {
+      "$oid": "624077d9ddc4b627a73c00d2"
+    },
+    {
+      "$oid": "623ef45d93143dc133cc70d7"
+    },
+    {
+      "$oid": "623ef45d93143dc133cc70d9"
+    },
+    {
+      "$oid": "624101f1b04b136f307073b6"
+    },
+    {
+      "$oid": "624101f1b04b136f307073b7"
+    },
+    {
+      "$oid": "624101fab04b136f307073e7"
+    },
+    {
+      "$oid": "6242046c74a2cbf30530522d"
+    },
+    {
+      "$oid": "6242046c74a2cbf30530522f"
+    },
+    {
+      "$oid": "6242dd0974a2cbf3053066d2"
+    },
+    {
+      "$oid": "6242dd0974a2cbf3053066d3"
+    },
+    {
+      "$oid": "6240e865c32d55529d9be6cf"
+    },
+    {
+      "$oid": "6240e870c32d55529d9be708"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231094584ebaf3e8f1bc109"
+  },
+  "first_name": "Charles",
+  "last_name": "Shields",
+  "titles": [
+    "Senior Lecturer II - Computer Science"
+  ],
+  "email": "cshields@utdallas.edu",
+  "phone_number": "972-883-2050",
+  "office": {
+    "building": "ECS",
+    "room": "3606",
+    "map_uri": "https://locator.utdallas.edu/ECS_3606"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/charles.shields",
+  "image_uri": "https://profiles.utdallas.edu/storage/media/1487/conversions/Shields_Charles-medium.jpg",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c44e27d0c74c4094565"
+    },
+    {
+      "$oid": "62414c45e27d0c74c4094566"
+    },
+    {
+      "$oid": "62414c47e27d0c74c409456d"
+    },
+    {
+      "$oid": "62414c49e27d0c74c4094572"
+    },
+    {
+      "$oid": "624145000cef69f0ebc9c4c3"
+    },
+    {
+      "$oid": "624145000cef69f0ebc9c4c6"
+    },
+    {
+      "$oid": "624145000cef69f0ebc9c4c7"
+    },
+    {
+      "$oid": "624145040cef69f0ebc9c4d7"
+    },
+    {
+      "$oid": "6241fa87c9e4c7fafbcbf385"
+    },
+    {
+      "$oid": "62423418c9e4c7fafbcbf77f"
+    },
+    {
+      "$oid": "623fedeabf28b6d88d6c7707"
+    },
+    {
+      "$oid": "623fedeabf28b6d88d6c7709"
+    },
+    {
+      "$oid": "623fedeebf28b6d88d6c7719"
+    },
+    {
+      "$oid": "623ff1e4bf28b6d88d6c77d8"
+    },
+    {
+      "$oid": "62410470ba30b4ebd5adbb89"
+    },
+    {
+      "$oid": "62410471ba30b4ebd5adbb8c"
+    },
+    {
+      "$oid": "62410472ba30b4ebd5adbb8e"
+    },
+    {
+      "$oid": "62410475ba30b4ebd5adbb9a"
+    },
+    {
+      "$oid": "6241de6aa698d6bd4b833a49"
+    },
+    {
+      "$oid": "6241e7cba698d6bd4b833b50"
+    },
+    {
+      "$oid": "6241e7d5a698d6bd4b833b81"
+    },
+    {
+      "$oid": "6242122ca698d6bd4b833f2f"
+    },
+    {
+      "$oid": "624077d5ddc4b627a73c00c0"
+    },
+    {
+      "$oid": "624077d6ddc4b627a73c00c3"
+    },
+    {
+      "$oid": "624077daddc4b627a73c00d3"
+    },
+    {
+      "$oid": "624079ffddc4b627a73c0178"
+    },
+    {
+      "$oid": "62416b9b4f665f12b9425c0b"
+    },
+    {
+      "$oid": "624175414f665f12b9425d07"
+    },
+    {
+      "$oid": "624175494f665f12b9425d48"
+    },
+    {
+      "$oid": "6241a1724f665f12b942617f"
+    },
+    {
+      "$oid": "62424d1e22d0f476459150e3"
+    },
+    {
+      "$oid": "6242550a22d0f476459151ca"
+    },
+    {
+      "$oid": "6242551922d0f47645915209"
+    },
+    {
+      "$oid": "6242829f22d0f476459155d3"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fededbf28b6d88d6c7715"
+  },
+  "first_name": "Srimathi",
+  "last_name": "Srinivasan",
+  "titles": [],
+  "email": "sxs180206@utdallas.edu",
+  "phone_number": null,
+  "office": null,
+  "profile_uri": null,
+  "image_uri": null,
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "623fededbf28b6d88d6c7714"
+    },
+    {
+      "$oid": "623fedeebf28b6d88d6c771a"
+    },
+    {
+      "$oid": "624047b52e493a3184b49f9a"
+    },
+    {
+      "$oid": "624047f32e493a3184b49fa0"
+    },
+    {
+      "$oid": "624077d9ddc4b627a73c00cf"
+    },
+    {
+      "$oid": "6240a6a3ddc4b627a73c0708"
+    },
+    {
+      "$oid": "623ef45d93143dc133cc70db"
+    },
+    {
+      "$oid": "623ef45e93143dc133cc70de"
+    },
+    {
+      "$oid": "624101f2b04b136f307073b9"
+    },
+    {
+      "$oid": "624101f2b04b136f307073bb"
+    },
+    {
+      "$oid": "6242046b74a2cbf30530522b"
+    },
+    {
+      "$oid": "6242046c74a2cbf305305232"
+    },
+    {
+      "$oid": "6242dd0974a2cbf3053066d1"
+    },
+    {
+      "$oid": "6242dd0a74a2cbf3053066d5"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fc346b8bc16815e8679a9"
+  },
+  "first_name": "Scott",
+  "last_name": "Dollinger",
+  "titles": [],
+  "email": "smd013000@utdallas.edu",
+  "phone_number": null,
+  "office": null,
+  "profile_uri": null,
+  "image_uri": null,
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "623fd3fbbf28b6d88d6c7484"
+    },
+    {
+      "$oid": "623fd3fbbf28b6d88d6c7486"
+    },
+    {
+      "$oid": "623fedeebf28b6d88d6c771b"
+    },
+    {
+      "$oid": "623fedf2bf28b6d88d6c7728"
+    },
+    {
+      "$oid": "623fedf3bf28b6d88d6c772a"
+    },
+    {
+      "$oid": "6240b70d4adab090a35fd6a3"
+    },
+    {
+      "$oid": "6240b70e4adab090a35fd6a5"
+    },
+    {
+      "$oid": "623ff8c42e493a3184b4981d"
+    },
+    {
+      "$oid": "623ff90b2e493a3184b4983d"
+    },
+    {
+      "$oid": "624122bd1d567db1444ad7ed"
+    },
+    {
+      "$oid": "624123ac1d567db1444ad806"
+    },
+    {
+      "$oid": "623fc85248c0b7b7e68378b2"
+    },
+    {
+      "$oid": "623fc85348c0b7b7e68378b6"
+    },
+    {
+      "$oid": "62424d1e22d0f476459150e7"
+    },
+    {
+      "$oid": "6242550b22d0f476459151cd"
+    },
+    {
+      "$oid": "6242550d22d0f476459151d6"
+    },
+    {
+      "$oid": "623efdc3435446f4890bf32b"
+    },
+    {
+      "$oid": "623efdc4435446f4890bf32d"
+    },
+    {
+      "$oid": "6242a21386ab87d6f6d9927c"
+    },
+    {
+      "$oid": "6242a97086ab87d6f6d9934e"
+    },
+    {
+      "$oid": "6240e868c32d55529d9be6df"
+    },
+    {
+      "$oid": "6240e868c32d55529d9be6e1"
+    },
+    {
+      "$oid": "6241177b51d891df387c2de8"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed7"
+    },
+    {
+      "$oid": "62411f2551d891df387c2eec"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623107d284ebaf3e8f1bbda9"
+  },
+  "first_name": "Gordon",
+  "last_name": "Arnold",
+  "titles": [
+    "Senior Lecturer I - Computer Science"
+  ],
+  "email": "gxa120930@utdallas.edu",
+  "phone_number": "+1 (972) 883-6339",
+  "office": {
+    "building": "ECS",
+    "room": "4.232",
+    "map_uri": "https://locator.utdallas.edu/ECS_4.232"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/gxa120930",
+  "image_uri": "https://profiles.utdallas.edu/img/default.png",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c3de27d0c74c409454c"
+    },
+    {
+      "$oid": "62414c3de27d0c74c409454d"
+    },
+    {
+      "$oid": "62414c3ee27d0c74c409454e"
+    },
+    {
+      "$oid": "62414c42e27d0c74c409455d"
+    },
+    {
+      "$oid": "62414c55e27d0c74c4094596"
+    },
+    {
+      "$oid": "62414eb7e27d0c74c4094600"
+    },
+    {
+      "$oid": "6241d152e0a87a87f38b2127"
+    },
+    {
+      "$oid": "62412b970cef69f0ebc9c242"
+    },
+    {
+      "$oid": "62412b990cef69f0ebc9c248"
+    },
+    {
+      "$oid": "624145010cef69f0ebc9c4c9"
+    },
+    {
+      "$oid": "624145010cef69f0ebc9c4cb"
+    },
+    {
+      "$oid": "624145040cef69f0ebc9c4d8"
+    },
+    {
+      "$oid": "624145050cef69f0ebc9c4dd"
+    },
+    {
+      "$oid": "624201969f98f082445205e5"
+    },
+    {
+      "$oid": "624201979f98f082445205ea"
+    },
+    {
+      "$oid": "623fd3f6bf28b6d88d6c7478"
+    },
+    {
+      "$oid": "623fedebbf28b6d88d6c770c"
+    },
+    {
+      "$oid": "623fedefbf28b6d88d6c771c"
+    },
+    {
+      "$oid": "623fee0abf28b6d88d6c7778"
+    },
+    {
+      "$oid": "623ff261bf28b6d88d6c77ee"
+    },
+    {
+      "$oid": "6240b7094adab090a35fd698"
+    },
+    {
+      "$oid": "6240ebe3ba30b4ebd5adb90d"
+    },
+    {
+      "$oid": "62410472ba30b4ebd5adbb8f"
+    },
+    {
+      "$oid": "62410472ba30b4ebd5adbb91"
+    },
+    {
+      "$oid": "62410475ba30b4ebd5adbb9c"
+    },
+    {
+      "$oid": "6241779aba30b4ebd5adc95f"
+    },
+    {
+      "$oid": "6241e7c9a698d6bd4b833b42"
+    },
+    {
+      "$oid": "6241e7c9a698d6bd4b833b44"
+    },
+    {
+      "$oid": "6241e7c9a698d6bd4b833b46"
+    },
+    {
+      "$oid": "6241e7cba698d6bd4b833b4d"
+    },
+    {
+      "$oid": "6241e7d1a698d6bd4b833b67"
+    },
+    {
+      "$oid": "62405d71ddc4b627a73bfee5"
+    },
+    {
+      "$oid": "624077d6ddc4b627a73c00c4"
+    },
+    {
+      "$oid": "624077d6ddc4b627a73c00c6"
+    },
+    {
+      "$oid": "624077daddc4b627a73c00d4"
+    },
+    {
+      "$oid": "6240f352ddc4b627a73c101c"
+    },
+    {
+      "$oid": "6241753f4f665f12b9425cf8"
+    },
+    {
+      "$oid": "6241753f4f665f12b9425cfa"
+    },
+    {
+      "$oid": "6241753f4f665f12b9425cfc"
+    },
+    {
+      "$oid": "624175404f665f12b9425cff"
+    },
+    {
+      "$oid": "624175404f665f12b9425d03"
+    },
+    {
+      "$oid": "624175454f665f12b9425d24"
+    },
+    {
+      "$oid": "6242550822d0f476459151c2"
+    },
+    {
+      "$oid": "6242550922d0f476459151c7"
+    },
+    {
+      "$oid": "6242551222d0f476459151e8"
+    },
+    {
+      "$oid": "6242a96f86ab87d6f6d99346"
+    },
+    {
+      "$oid": "6242a97e86ab87d6f6d99388"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231091b84ebaf3e8f1bc0ab"
+  },
+  "first_name": "Miguel",
+  "last_name": "Razo",
+  "titles": [
+    "Senior Lecturer II - Computer Science"
+  ],
+  "email": "mrazora@utdallas.edu",
+  "phone_number": "972-883-4240",
+  "office": {
+    "building": "ECS",
+    "room": "3605",
+    "map_uri": "https://locator.utdallas.edu/ECS_3605"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/mrazo",
+  "image_uri": "https://profiles.utdallas.edu/storage/media/457/conversions/14818_0_12071-medium.jpg",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c41e27d0c74c4094557"
+    },
+    {
+      "$oid": "62414ebbe27d0c74c4094612"
+    },
+    {
+      "$oid": "62414ebbe27d0c74c4094614"
+    },
+    {
+      "$oid": "62412b980cef69f0ebc9c244"
+    },
+    {
+      "$oid": "624145010cef69f0ebc9c4c8"
+    },
+    {
+      "$oid": "624145050cef69f0ebc9c4da"
+    },
+    {
+      "$oid": "624146690cef69f0ebc9c56d"
+    },
+    {
+      "$oid": "624146690cef69f0ebc9c56f"
+    },
+    {
+      "$oid": "624201969f98f082445205e7"
+    },
+    {
+      "$oid": "623fd3f6bf28b6d88d6c747a"
+    },
+    {
+      "$oid": "623fedefbf28b6d88d6c771e"
+    },
+    {
+      "$oid": "623ff260bf28b6d88d6c77e8"
+    },
+    {
+      "$oid": "623ff260bf28b6d88d6c77ea"
+    },
+    {
+      "$oid": "6240b70a4adab090a35fd69a"
+    },
+    {
+      "$oid": "6240ebe3ba30b4ebd5adb90f"
+    },
+    {
+      "$oid": "62410476ba30b4ebd5adbb9e"
+    },
+    {
+      "$oid": "624106a2ba30b4ebd5adbc42"
+    },
+    {
+      "$oid": "624106a2ba30b4ebd5adbc44"
+    },
+    {
+      "$oid": "6241779aba30b4ebd5adc961"
+    },
+    {
+      "$oid": "62405d72ddc4b627a73bfee7"
+    },
+    {
+      "$oid": "624077dbddc4b627a73c00d6"
+    },
+    {
+      "$oid": "62407a02ddc4b627a73c0188"
+    },
+    {
+      "$oid": "6240f353ddc4b627a73c101e"
+    },
+    {
+      "$oid": "623ef0f793143dc133cc7074"
+    },
+    {
+      "$oid": "623efdc1435446f4890bf320"
+    },
+    {
+      "$oid": "6242042474a2cbf3053051b5"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fc342b8bc16815e86799e"
+  },
+  "first_name": "Doug",
+  "last_name": "DeGroot",
+  "titles": [],
+  "email": "dxd180020@utdallas.edu",
+  "phone_number": null,
+  "office": null,
+  "profile_uri": null,
+  "image_uri": null,
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "623fd3f7bf28b6d88d6c747b"
+    },
+    {
+      "$oid": "623fd3fabf28b6d88d6c7482"
+    },
+    {
+      "$oid": "623fedefbf28b6d88d6c771f"
+    },
+    {
+      "$oid": "623fedf2bf28b6d88d6c7726"
+    },
+    {
+      "$oid": "623fedfbbf28b6d88d6c7748"
+    },
+    {
+      "$oid": "623fedfcbf28b6d88d6c774a"
+    },
+    {
+      "$oid": "6240aa494adab090a35fd546"
+    },
+    {
+      "$oid": "6240aa4a4adab090a35fd548"
+    },
+    {
+      "$oid": "6240b70a4adab090a35fd69b"
+    },
+    {
+      "$oid": "6240b70c4adab090a35fd6a1"
+    },
+    {
+      "$oid": "624118951d567db1444ad6a2"
+    },
+    {
+      "$oid": "6241189f1d567db1444ad6a6"
+    },
+    {
+      "$oid": "624124391d567db1444ad83c"
+    },
+    {
+      "$oid": "62405d72ddc4b627a73bfee8"
+    },
+    {
+      "$oid": "62405d75ddc4b627a73bfef1"
+    },
+    {
+      "$oid": "624077dbddc4b627a73c00d7"
+    },
+    {
+      "$oid": "624077deddc4b627a73c00de"
+    },
+    {
+      "$oid": "624077e8ddc4b627a73c00fd"
+    },
+    {
+      "$oid": "624077e9ddc4b627a73c00fe"
+    },
+    {
+      "$oid": "6240e37fddc4b627a73c0e8c"
+    },
+    {
+      "$oid": "6240e37fddc4b627a73c0e8d"
+    },
+    {
+      "$oid": "6240f353ddc4b627a73c101f"
+    },
+    {
+      "$oid": "6240f355ddc4b627a73c1025"
+    },
+    {
+      "$oid": "62416b9b4f665f12b9425c0e"
+    },
+    {
+      "$oid": "624175414f665f12b9425d09"
+    },
+    {
+      "$oid": "6241a1724f665f12b9426181"
+    },
+    {
+      "$oid": "6240f8a3d979c2aaf0678886"
+    },
+    {
+      "$oid": "6240f8a6d979c2aaf067888a"
+    },
+    {
+      "$oid": "62424d1e22d0f476459150e5"
+    },
+    {
+      "$oid": "6242550a22d0f476459151cc"
+    },
+    {
+      "$oid": "6242829f22d0f476459155d5"
+    },
+    {
+      "$oid": "624100afb04b136f30707390"
+    },
+    {
+      "$oid": "624100afb04b136f30707392"
+    },
+    {
+      "$oid": "624100b0b04b136f30707396"
+    },
+    {
+      "$oid": "624100b0b04b136f30707397"
+    },
+    {
+      "$oid": "624101f9b04b136f307073e5"
+    },
+    {
+      "$oid": "623efdc1435446f4890bf322"
+    },
+    {
+      "$oid": "623efdc3435446f4890bf329"
+    },
+    {
+      "$oid": "62401130cdfb8589b6a74d6d"
+    },
+    {
+      "$oid": "62401131cdfb8589b6a74d6e"
+    },
+    {
+      "$oid": "6242a21386ab87d6f6d9927f"
+    },
+    {
+      "$oid": "6242a97086ab87d6f6d9934b"
+    },
+    {
+      "$oid": "6242a97186ab87d6f6d99350"
+    },
+    {
+      "$oid": "6242dc3874a2cbf3053066af"
+    },
+    {
+      "$oid": "6242dc3874a2cbf3053066b0"
+    },
+    {
+      "$oid": "6242dc3974a2cbf3053066b4"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231080d84ebaf3e8f1bbe33"
+  },
+  "first_name": "John",
+  "last_name": "Cole",
+  "titles": [
+    "Senior Lecturer II - Computer Science"
+  ],
+  "email": "jxc064000@utdallas.edu",
+  "phone_number": "972-883-6353",
+  "office": {
+    "building": "ECS",
+    "room": "4702",
+    "map_uri": "https://locator.utdallas.edu/ECS_4702"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/john.cole",
+  "image_uri": "https://profiles.utdallas.edu/storage/media/1223/conversions/utdallas_38305345_Medium-medium.jpg",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c3ce27d0c74c409454a"
+    },
+    {
+      "$oid": "62414c3de27d0c74c409454b"
+    },
+    {
+      "$oid": "62414c3ee27d0c74c409454f"
+    },
+    {
+      "$oid": "62414c3fe27d0c74c4094551"
+    },
+    {
+      "$oid": "62414ec7e27d0c74c4094643"
+    },
+    {
+      "$oid": "62414ecde27d0c74c4094662"
+    },
+    {
+      "$oid": "62412b980cef69f0ebc9c247"
+    },
+    {
+      "$oid": "62412b9a0cef69f0ebc9c24c"
+    },
+    {
+      "$oid": "624145050cef69f0ebc9c4dc"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4e1"
+    },
+    {
+      "$oid": "624146a10cef69f0ebc9c596"
+    },
+    {
+      "$oid": "624201979f98f082445205e9"
+    },
+    {
+      "$oid": "623fd3f7bf28b6d88d6c747c"
+    },
+    {
+      "$oid": "623fd3f9bf28b6d88d6c7481"
+    },
+    {
+      "$oid": "623fedf0bf28b6d88d6c7720"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7725"
+    },
+    {
+      "$oid": "623fef37bf28b6d88d6c7794"
+    },
+    {
+      "$oid": "623ff26ebf28b6d88d6c781c"
+    },
+    {
+      "$oid": "6240b70a4adab090a35fd69c"
+    },
+    {
+      "$oid": "6240ebe4ba30b4ebd5adb912"
+    },
+    {
+      "$oid": "6240ebe5ba30b4ebd5adb916"
+    },
+    {
+      "$oid": "62410477ba30b4ebd5adbba0"
+    },
+    {
+      "$oid": "62410478ba30b4ebd5adbba4"
+    },
+    {
+      "$oid": "62410693ba30b4ebd5adbc05"
+    },
+    {
+      "$oid": "624106abba30b4ebd5adbc71"
+    },
+    {
+      "$oid": "6241779bba30b4ebd5adc963"
+    },
+    {
+      "$oid": "62405d72ddc4b627a73bfeea"
+    },
+    {
+      "$oid": "62405d74ddc4b627a73bfef0"
+    },
+    {
+      "$oid": "624077dcddc4b627a73c00d8"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00dd"
+    },
+    {
+      "$oid": "6240798eddc4b627a73c013f"
+    },
+    {
+      "$oid": "62407a0fddc4b627a73c01c1"
+    },
+    {
+      "$oid": "6240f354ddc4b627a73c1020"
+    },
+    {
+      "$oid": "623fc9c548c0b7b7e68378d8"
+    },
+    {
+      "$oid": "623ef1ee93143dc133cc7093"
+    },
+    {
+      "$oid": "623efdc2435446f4890bf324"
+    },
+    {
+      "$oid": "623efdc3435446f4890bf328"
+    },
+    {
+      "$oid": "6242dc3674a2cbf3053066a7"
+    },
+    {
+      "$oid": "6240e85cc32d55529d9be6a8"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fc343b8bc16815e8679a1"
+  },
+  "first_name": "Erik",
+  "last_name": "Peterson",
+  "titles": [],
+  "email": "eap190004@utdallas.edu",
+  "phone_number": null,
+  "office": null,
+  "profile_uri": null,
+  "image_uri": null,
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "623fd3f8bf28b6d88d6c747d"
+    },
+    {
+      "$oid": "623fedf0bf28b6d88d6c7721"
+    },
+    {
+      "$oid": "623fedfabf28b6d88d6c7743"
+    },
+    {
+      "$oid": "623fedfbbf28b6d88d6c7746"
+    },
+    {
+      "$oid": "6240aa484adab090a35fd541"
+    },
+    {
+      "$oid": "6240aa484adab090a35fd544"
+    },
+    {
+      "$oid": "6240b70b4adab090a35fd69d"
+    },
+    {
+      "$oid": "624119771d567db1444ad6cc"
+    },
+    {
+      "$oid": "624119791d567db1444ad6cf"
+    },
+    {
+      "$oid": "624100aeb04b136f3070738f"
+    },
+    {
+      "$oid": "624100afb04b136f30707395"
+    },
+    {
+      "$oid": "624011dfcdfb8589b6a74d98"
+    },
+    {
+      "$oid": "6240e866c32d55529d9be6d6"
+    },
+    {
+      "$oid": "6240e869c32d55529d9be6e4"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231097284ebaf3e8f1bc170"
+  },
+  "first_name": "Jeyakesavan",
+  "last_name": "Veerasamy",
+  "titles": [
+    "Senior Lecturer II - Computer Science"
+  ],
+  "email": "veerasam@utdallas.edu",
+  "phone_number": "972-883-4241",
+  "office": {
+    "building": "ECS",
+    "room": "3231",
+    "map_uri": "https://locator.utdallas.edu/ECS_3231"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/jeyv",
+  "image_uri": "https://profiles.utdallas.edu/storage/media/1162/conversions/Veerasamy_Jey-medium.jpg",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c42e27d0c74c409455a"
+    },
+    {
+      "$oid": "62414c47e27d0c74c409456c"
+    },
+    {
+      "$oid": "62414ebbe27d0c74c4094612"
+    },
+    {
+      "$oid": "62414ebbe27d0c74c4094614"
+    },
+    {
+      "$oid": "62412b990cef69f0ebc9c249"
+    },
+    {
+      "$oid": "624145020cef69f0ebc9c4cc"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4de"
+    },
+    {
+      "$oid": "624145190cef69f0ebc9c531"
+    },
+    {
+      "$oid": "624146690cef69f0ebc9c56d"
+    },
+    {
+      "$oid": "624146690cef69f0ebc9c56f"
+    },
+    {
+      "$oid": "624202c59f98f082445205eb"
+    },
+    {
+      "$oid": "624202e09f98f0824452062f"
+    },
+    {
+      "$oid": "623fd3f8bf28b6d88d6c747e"
+    },
+    {
+      "$oid": "623fedebbf28b6d88d6c770a"
+    },
+    {
+      "$oid": "623fedecbf28b6d88d6c7711"
+    },
+    {
+      "$oid": "623fedf0bf28b6d88d6c7722"
+    },
+    {
+      "$oid": "623ff260bf28b6d88d6c77e8"
+    },
+    {
+      "$oid": "623ff260bf28b6d88d6c77ea"
+    },
+    {
+      "$oid": "6240b70b4adab090a35fd69e"
+    },
+    {
+      "$oid": "6240ebe4ba30b4ebd5adb913"
+    },
+    {
+      "$oid": "62410473ba30b4ebd5adbb95"
+    },
+    {
+      "$oid": "62410477ba30b4ebd5adbba1"
+    },
+    {
+      "$oid": "624106a2ba30b4ebd5adbc42"
+    },
+    {
+      "$oid": "624106a2ba30b4ebd5adbc44"
+    },
+    {
+      "$oid": "6241779bba30b4ebd5adc964"
+    },
+    {
+      "$oid": "62405d73ddc4b627a73bfeed"
+    },
+    {
+      "$oid": "624077d8ddc4b627a73c00cb"
+    },
+    {
+      "$oid": "624077dcddc4b627a73c00da"
+    },
+    {
+      "$oid": "62407a02ddc4b627a73c0188"
+    },
+    {
+      "$oid": "6240f354ddc4b627a73c1022"
+    },
+    {
+      "$oid": "623ef0d793143dc133cc706c"
+    },
+    {
+      "$oid": "624101f4b04b136f307073c1"
+    },
+    {
+      "$oid": "623efdc2435446f4890bf325"
+    },
+    {
+      "$oid": "6240113ecdfb8589b6a74d91"
+    },
+    {
+      "$oid": "6240113ecdfb8589b6a74d92"
+    },
+    {
+      "$oid": "6242045b74a2cbf3053051d6"
+    },
+    {
+      "$oid": "6242045b74a2cbf3053051d8"
+    },
+    {
+      "$oid": "6242dd0b74a2cbf3053066dd"
+    },
+    {
+      "$oid": "6240e867c32d55529d9be6db"
+    },
+    {
+      "$oid": "6240e868c32d55529d9be6de"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231094b84ebaf3e8f1bc117"
+  },
+  "first_name": "Jason",
+  "last_name": "Smith",
+  "titles": [
+    "Senior Lecturer I - Computer Science"
+  ],
+  "email": "jws130830@utdallas.edu",
+  "phone_number": "+1 (972) 883-4835",
+  "office": {
+    "building": "ECS",
+    "room": "3.232",
+    "map_uri": "https://locator.utdallas.edu/ECS_3.232"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/smith",
+  "image_uri": "https://profiles.utdallas.edu/img/default.png",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62413289e27d0c74c40942d9"
+    },
+    {
+      "$oid": "6241328ae27d0c74c40942db"
+    },
+    {
+      "$oid": "6241328ce27d0c74c40942e1"
+    },
+    {
+      "$oid": "62413291e27d0c74c40942f1"
+    },
+    {
+      "$oid": "62414c45e27d0c74c4094567"
+    },
+    {
+      "$oid": "62414c4be27d0c74c4094577"
+    },
+    {
+      "$oid": "62414c4ce27d0c74c4094579"
+    },
+    {
+      "$oid": "62414c4ee27d0c74c409457f"
+    },
+    {
+      "$oid": "62414c53e27d0c74c409458f"
+    },
+    {
+      "$oid": "62412b990cef69f0ebc9c24a"
+    },
+    {
+      "$oid": "62412b990cef69f0ebc9c24b"
+    },
+    {
+      "$oid": "62412b9e0cef69f0ebc9c25f"
+    },
+    {
+      "$oid": "62412b9e0cef69f0ebc9c261"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4df"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4e0"
+    },
+    {
+      "$oid": "6241450a0cef69f0ebc9c4f1"
+    },
+    {
+      "$oid": "6241450b0cef69f0ebc9c4f3"
+    },
+    {
+      "$oid": "624202c59f98f082445205ec"
+    },
+    {
+      "$oid": "624202c59f98f082445205ed"
+    },
+    {
+      "$oid": "624202d39f98f082445205fa"
+    },
+    {
+      "$oid": "624202d39f98f082445205fc"
+    },
+    {
+      "$oid": "623fd3f9bf28b6d88d6c747f"
+    },
+    {
+      "$oid": "623fd3f9bf28b6d88d6c7480"
+    },
+    {
+      "$oid": "623fd3fcbf28b6d88d6c7488"
+    },
+    {
+      "$oid": "623fd402bf28b6d88d6c749b"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7723"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7724"
+    },
+    {
+      "$oid": "623fedf4bf28b6d88d6c772c"
+    },
+    {
+      "$oid": "623fedf8bf28b6d88d6c773d"
+    },
+    {
+      "$oid": "6240b70b4adab090a35fd69f"
+    },
+    {
+      "$oid": "6240b70c4adab090a35fd6a0"
+    },
+    {
+      "$oid": "6240b70e4adab090a35fd6a7"
+    },
+    {
+      "$oid": "6240b7124adab090a35fd6b5"
+    },
+    {
+      "$oid": "6240ebe4ba30b4ebd5adb914"
+    },
+    {
+      "$oid": "6240ebe5ba30b4ebd5adb915"
+    },
+    {
+      "$oid": "6240ebe7ba30b4ebd5adb91c"
+    },
+    {
+      "$oid": "6240ebebba30b4ebd5adb92c"
+    },
+    {
+      "$oid": "6240ebecba30b4ebd5adb92e"
+    },
+    {
+      "$oid": "62410477ba30b4ebd5adbba2"
+    },
+    {
+      "$oid": "62410478ba30b4ebd5adbba3"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbbaa"
+    },
+    {
+      "$oid": "6241047eba30b4ebd5adbbb7"
+    },
+    {
+      "$oid": "6241047eba30b4ebd5adbbb9"
+    },
+    {
+      "$oid": "6241779bba30b4ebd5adc965"
+    },
+    {
+      "$oid": "6241779cba30b4ebd5adc966"
+    },
+    {
+      "$oid": "6241779eba30b4ebd5adc96c"
+    },
+    {
+      "$oid": "624177a1ba30b4ebd5adc976"
+    },
+    {
+      "$oid": "624177a1ba30b4ebd5adc978"
+    },
+    {
+      "$oid": "6241de6aa698d6bd4b833a4e"
+    },
+    {
+      "$oid": "6241e7cca698d6bd4b833b53"
+    },
+    {
+      "$oid": "6242122ca698d6bd4b833f32"
+    },
+    {
+      "$oid": "623ff8c82e493a3184b4981e"
+    },
+    {
+      "$oid": "623ff8dd2e493a3184b49826"
+    },
+    {
+      "$oid": "623ff8f72e493a3184b49836"
+    },
+    {
+      "$oid": "624122be1d567db1444ad7ef"
+    },
+    {
+      "$oid": "6241236c1d567db1444ad7f4"
+    },
+    {
+      "$oid": "6241238b1d567db1444ad7ff"
+    },
+    {
+      "$oid": "62405d74ddc4b627a73bfeee"
+    },
+    {
+      "$oid": "62405d74ddc4b627a73bfeef"
+    },
+    {
+      "$oid": "62405d77ddc4b627a73bfef6"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00db"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00dc"
+    },
+    {
+      "$oid": "624077e0ddc4b627a73c00e3"
+    },
+    {
+      "$oid": "6240f355ddc4b627a73c1023"
+    },
+    {
+      "$oid": "6240f355ddc4b627a73c1024"
+    },
+    {
+      "$oid": "6240f357ddc4b627a73c102a"
+    },
+    {
+      "$oid": "62416b9c4f665f12b9425c10"
+    },
+    {
+      "$oid": "624175414f665f12b9425d0a"
+    },
+    {
+      "$oid": "6241a1724f665f12b9426182"
+    },
+    {
+      "$oid": "623fc85248c0b7b7e68378b5"
+    },
+    {
+      "$oid": "623fc88f48c0b7b7e68378b9"
+    },
+    {
+      "$oid": "623fc98848c0b7b7e68378d2"
+    },
+    {
+      "$oid": "62424d1f22d0f476459150e9"
+    },
+    {
+      "$oid": "6242550b22d0f476459151ce"
+    },
+    {
+      "$oid": "6242829f22d0f476459155d6"
+    },
+    {
+      "$oid": "623ef0d893143dc133cc706e"
+    },
+    {
+      "$oid": "623ef0f793143dc133cc7075"
+    },
+    {
+      "$oid": "623ef1b193143dc133cc7090"
+    },
+    {
+      "$oid": "623efdc2435446f4890bf326"
+    },
+    {
+      "$oid": "623efdc2435446f4890bf327"
+    },
+    {
+      "$oid": "623efdc4435446f4890bf32f"
+    },
+    {
+      "$oid": "623efdc9435446f4890bf346"
+    },
+    {
+      "$oid": "6242a21386ab87d6f6d99281"
+    },
+    {
+      "$oid": "6242a97186ab87d6f6d99351"
+    },
+    {
+      "$oid": "6242041f74a2cbf3053051b0"
+    },
+    {
+      "$oid": "6242042b74a2cbf3053051b7"
+    },
+    {
+      "$oid": "6242045574a2cbf3053051d5"
+    },
+    {
+      "$oid": "6241177b51d891df387c2deb"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed9"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231094b84ebaf3e8f1bc117"
+  },
+  "first_name": "Jason",
+  "last_name": "Smith",
+  "titles": [
+    "Senior Lecturer I - Computer Science"
+  ],
+  "email": "jws130830@utdallas.edu",
+  "phone_number": "+1 (972) 883-4835",
+  "office": {
+    "building": "ECS",
+    "room": "3.232",
+    "map_uri": "https://locator.utdallas.edu/ECS_3.232"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/smith",
+  "image_uri": "https://profiles.utdallas.edu/img/default.png",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62413289e27d0c74c40942d9"
+    },
+    {
+      "$oid": "6241328ae27d0c74c40942db"
+    },
+    {
+      "$oid": "6241328ce27d0c74c40942e1"
+    },
+    {
+      "$oid": "62413291e27d0c74c40942f1"
+    },
+    {
+      "$oid": "62414c45e27d0c74c4094567"
+    },
+    {
+      "$oid": "62414c4be27d0c74c4094577"
+    },
+    {
+      "$oid": "62414c4ce27d0c74c4094579"
+    },
+    {
+      "$oid": "62414c4ee27d0c74c409457f"
+    },
+    {
+      "$oid": "62414c53e27d0c74c409458f"
+    },
+    {
+      "$oid": "62412b990cef69f0ebc9c24a"
+    },
+    {
+      "$oid": "62412b990cef69f0ebc9c24b"
+    },
+    {
+      "$oid": "62412b9e0cef69f0ebc9c25f"
+    },
+    {
+      "$oid": "62412b9e0cef69f0ebc9c261"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4df"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4e0"
+    },
+    {
+      "$oid": "6241450a0cef69f0ebc9c4f1"
+    },
+    {
+      "$oid": "6241450b0cef69f0ebc9c4f3"
+    },
+    {
+      "$oid": "624202c59f98f082445205ec"
+    },
+    {
+      "$oid": "624202c59f98f082445205ed"
+    },
+    {
+      "$oid": "624202d39f98f082445205fa"
+    },
+    {
+      "$oid": "624202d39f98f082445205fc"
+    },
+    {
+      "$oid": "623fd3f9bf28b6d88d6c747f"
+    },
+    {
+      "$oid": "623fd3f9bf28b6d88d6c7480"
+    },
+    {
+      "$oid": "623fd3fcbf28b6d88d6c7488"
+    },
+    {
+      "$oid": "623fd402bf28b6d88d6c749b"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7723"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7724"
+    },
+    {
+      "$oid": "623fedf4bf28b6d88d6c772c"
+    },
+    {
+      "$oid": "623fedf8bf28b6d88d6c773d"
+    },
+    {
+      "$oid": "6240b70b4adab090a35fd69f"
+    },
+    {
+      "$oid": "6240b70c4adab090a35fd6a0"
+    },
+    {
+      "$oid": "6240b70e4adab090a35fd6a7"
+    },
+    {
+      "$oid": "6240b7124adab090a35fd6b5"
+    },
+    {
+      "$oid": "6240ebe4ba30b4ebd5adb914"
+    },
+    {
+      "$oid": "6240ebe5ba30b4ebd5adb915"
+    },
+    {
+      "$oid": "6240ebe7ba30b4ebd5adb91c"
+    },
+    {
+      "$oid": "6240ebebba30b4ebd5adb92c"
+    },
+    {
+      "$oid": "6240ebecba30b4ebd5adb92e"
+    },
+    {
+      "$oid": "62410477ba30b4ebd5adbba2"
+    },
+    {
+      "$oid": "62410478ba30b4ebd5adbba3"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbbaa"
+    },
+    {
+      "$oid": "6241047eba30b4ebd5adbbb7"
+    },
+    {
+      "$oid": "6241047eba30b4ebd5adbbb9"
+    },
+    {
+      "$oid": "6241779bba30b4ebd5adc965"
+    },
+    {
+      "$oid": "6241779cba30b4ebd5adc966"
+    },
+    {
+      "$oid": "6241779eba30b4ebd5adc96c"
+    },
+    {
+      "$oid": "624177a1ba30b4ebd5adc976"
+    },
+    {
+      "$oid": "624177a1ba30b4ebd5adc978"
+    },
+    {
+      "$oid": "6241de6aa698d6bd4b833a4e"
+    },
+    {
+      "$oid": "6241e7cca698d6bd4b833b53"
+    },
+    {
+      "$oid": "6242122ca698d6bd4b833f32"
+    },
+    {
+      "$oid": "623ff8c82e493a3184b4981e"
+    },
+    {
+      "$oid": "623ff8dd2e493a3184b49826"
+    },
+    {
+      "$oid": "623ff8f72e493a3184b49836"
+    },
+    {
+      "$oid": "624122be1d567db1444ad7ef"
+    },
+    {
+      "$oid": "6241236c1d567db1444ad7f4"
+    },
+    {
+      "$oid": "6241238b1d567db1444ad7ff"
+    },
+    {
+      "$oid": "62405d74ddc4b627a73bfeee"
+    },
+    {
+      "$oid": "62405d74ddc4b627a73bfeef"
+    },
+    {
+      "$oid": "62405d77ddc4b627a73bfef6"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00db"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00dc"
+    },
+    {
+      "$oid": "624077e0ddc4b627a73c00e3"
+    },
+    {
+      "$oid": "6240f355ddc4b627a73c1023"
+    },
+    {
+      "$oid": "6240f355ddc4b627a73c1024"
+    },
+    {
+      "$oid": "6240f357ddc4b627a73c102a"
+    },
+    {
+      "$oid": "62416b9c4f665f12b9425c10"
+    },
+    {
+      "$oid": "624175414f665f12b9425d0a"
+    },
+    {
+      "$oid": "6241a1724f665f12b9426182"
+    },
+    {
+      "$oid": "623fc85248c0b7b7e68378b5"
+    },
+    {
+      "$oid": "623fc88f48c0b7b7e68378b9"
+    },
+    {
+      "$oid": "623fc98848c0b7b7e68378d2"
+    },
+    {
+      "$oid": "62424d1f22d0f476459150e9"
+    },
+    {
+      "$oid": "6242550b22d0f476459151ce"
+    },
+    {
+      "$oid": "6242829f22d0f476459155d6"
+    },
+    {
+      "$oid": "623ef0d893143dc133cc706e"
+    },
+    {
+      "$oid": "623ef0f793143dc133cc7075"
+    },
+    {
+      "$oid": "623ef1b193143dc133cc7090"
+    },
+    {
+      "$oid": "623efdc2435446f4890bf326"
+    },
+    {
+      "$oid": "623efdc2435446f4890bf327"
+    },
+    {
+      "$oid": "623efdc4435446f4890bf32f"
+    },
+    {
+      "$oid": "623efdc9435446f4890bf346"
+    },
+    {
+      "$oid": "6242a21386ab87d6f6d99281"
+    },
+    {
+      "$oid": "6242a97186ab87d6f6d99351"
+    },
+    {
+      "$oid": "6242041f74a2cbf3053051b0"
+    },
+    {
+      "$oid": "6242042b74a2cbf3053051b7"
+    },
+    {
+      "$oid": "6242045574a2cbf3053051d5"
+    },
+    {
+      "$oid": "6241177b51d891df387c2deb"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed9"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231080d84ebaf3e8f1bbe33"
+  },
+  "first_name": "John",
+  "last_name": "Cole",
+  "titles": [
+    "Senior Lecturer II - Computer Science"
+  ],
+  "email": "jxc064000@utdallas.edu",
+  "phone_number": "972-883-6353",
+  "office": {
+    "building": "ECS",
+    "room": "4702",
+    "map_uri": "https://locator.utdallas.edu/ECS_4702"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/john.cole",
+  "image_uri": "https://profiles.utdallas.edu/storage/media/1223/conversions/utdallas_38305345_Medium-medium.jpg",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c3ce27d0c74c409454a"
+    },
+    {
+      "$oid": "62414c3de27d0c74c409454b"
+    },
+    {
+      "$oid": "62414c3ee27d0c74c409454f"
+    },
+    {
+      "$oid": "62414c3fe27d0c74c4094551"
+    },
+    {
+      "$oid": "62414ec7e27d0c74c4094643"
+    },
+    {
+      "$oid": "62414ecde27d0c74c4094662"
+    },
+    {
+      "$oid": "62412b980cef69f0ebc9c247"
+    },
+    {
+      "$oid": "62412b9a0cef69f0ebc9c24c"
+    },
+    {
+      "$oid": "624145050cef69f0ebc9c4dc"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4e1"
+    },
+    {
+      "$oid": "624146a10cef69f0ebc9c596"
+    },
+    {
+      "$oid": "624201979f98f082445205e9"
+    },
+    {
+      "$oid": "623fd3f7bf28b6d88d6c747c"
+    },
+    {
+      "$oid": "623fd3f9bf28b6d88d6c7481"
+    },
+    {
+      "$oid": "623fedf0bf28b6d88d6c7720"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7725"
+    },
+    {
+      "$oid": "623fef37bf28b6d88d6c7794"
+    },
+    {
+      "$oid": "623ff26ebf28b6d88d6c781c"
+    },
+    {
+      "$oid": "6240b70a4adab090a35fd69c"
+    },
+    {
+      "$oid": "6240ebe4ba30b4ebd5adb912"
+    },
+    {
+      "$oid": "6240ebe5ba30b4ebd5adb916"
+    },
+    {
+      "$oid": "62410477ba30b4ebd5adbba0"
+    },
+    {
+      "$oid": "62410478ba30b4ebd5adbba4"
+    },
+    {
+      "$oid": "62410693ba30b4ebd5adbc05"
+    },
+    {
+      "$oid": "624106abba30b4ebd5adbc71"
+    },
+    {
+      "$oid": "6241779bba30b4ebd5adc963"
+    },
+    {
+      "$oid": "62405d72ddc4b627a73bfeea"
+    },
+    {
+      "$oid": "62405d74ddc4b627a73bfef0"
+    },
+    {
+      "$oid": "624077dcddc4b627a73c00d8"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00dd"
+    },
+    {
+      "$oid": "6240798eddc4b627a73c013f"
+    },
+    {
+      "$oid": "62407a0fddc4b627a73c01c1"
+    },
+    {
+      "$oid": "6240f354ddc4b627a73c1020"
+    },
+    {
+      "$oid": "623fc9c548c0b7b7e68378d8"
+    },
+    {
+      "$oid": "623ef1ee93143dc133cc7093"
+    },
+    {
+      "$oid": "623efdc2435446f4890bf324"
+    },
+    {
+      "$oid": "623efdc3435446f4890bf328"
+    },
+    {
+      "$oid": "6242dc3674a2cbf3053066a7"
+    },
+    {
+      "$oid": "6240e85cc32d55529d9be6a8"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fc342b8bc16815e86799e"
+  },
+  "first_name": "Doug",
+  "last_name": "DeGroot",
+  "titles": [],
+  "email": "dxd180020@utdallas.edu",
+  "phone_number": null,
+  "office": null,
+  "profile_uri": null,
+  "image_uri": null,
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "623fd3f7bf28b6d88d6c747b"
+    },
+    {
+      "$oid": "623fd3fabf28b6d88d6c7482"
+    },
+    {
+      "$oid": "623fedefbf28b6d88d6c771f"
+    },
+    {
+      "$oid": "623fedf2bf28b6d88d6c7726"
+    },
+    {
+      "$oid": "623fedfbbf28b6d88d6c7748"
+    },
+    {
+      "$oid": "623fedfcbf28b6d88d6c774a"
+    },
+    {
+      "$oid": "6240aa494adab090a35fd546"
+    },
+    {
+      "$oid": "6240aa4a4adab090a35fd548"
+    },
+    {
+      "$oid": "6240b70a4adab090a35fd69b"
+    },
+    {
+      "$oid": "6240b70c4adab090a35fd6a1"
+    },
+    {
+      "$oid": "624118951d567db1444ad6a2"
+    },
+    {
+      "$oid": "6241189f1d567db1444ad6a6"
+    },
+    {
+      "$oid": "624124391d567db1444ad83c"
+    },
+    {
+      "$oid": "62405d72ddc4b627a73bfee8"
+    },
+    {
+      "$oid": "62405d75ddc4b627a73bfef1"
+    },
+    {
+      "$oid": "624077dbddc4b627a73c00d7"
+    },
+    {
+      "$oid": "624077deddc4b627a73c00de"
+    },
+    {
+      "$oid": "624077e8ddc4b627a73c00fd"
+    },
+    {
+      "$oid": "624077e9ddc4b627a73c00fe"
+    },
+    {
+      "$oid": "6240e37fddc4b627a73c0e8c"
+    },
+    {
+      "$oid": "6240e37fddc4b627a73c0e8d"
+    },
+    {
+      "$oid": "6240f353ddc4b627a73c101f"
+    },
+    {
+      "$oid": "6240f355ddc4b627a73c1025"
+    },
+    {
+      "$oid": "62416b9b4f665f12b9425c0e"
+    },
+    {
+      "$oid": "624175414f665f12b9425d09"
+    },
+    {
+      "$oid": "6241a1724f665f12b9426181"
+    },
+    {
+      "$oid": "6240f8a3d979c2aaf0678886"
+    },
+    {
+      "$oid": "6240f8a6d979c2aaf067888a"
+    },
+    {
+      "$oid": "62424d1e22d0f476459150e5"
+    },
+    {
+      "$oid": "6242550a22d0f476459151cc"
+    },
+    {
+      "$oid": "6242829f22d0f476459155d5"
+    },
+    {
+      "$oid": "624100afb04b136f30707390"
+    },
+    {
+      "$oid": "624100afb04b136f30707392"
+    },
+    {
+      "$oid": "624100b0b04b136f30707396"
+    },
+    {
+      "$oid": "624100b0b04b136f30707397"
+    },
+    {
+      "$oid": "624101f9b04b136f307073e5"
+    },
+    {
+      "$oid": "623efdc1435446f4890bf322"
+    },
+    {
+      "$oid": "623efdc3435446f4890bf329"
+    },
+    {
+      "$oid": "62401130cdfb8589b6a74d6d"
+    },
+    {
+      "$oid": "62401131cdfb8589b6a74d6e"
+    },
+    {
+      "$oid": "6242a21386ab87d6f6d9927f"
+    },
+    {
+      "$oid": "6242a97086ab87d6f6d9934b"
+    },
+    {
+      "$oid": "6242a97186ab87d6f6d99350"
+    },
+    {
+      "$oid": "6242dc3874a2cbf3053066af"
+    },
+    {
+      "$oid": "6242dc3874a2cbf3053066b0"
+    },
+    {
+      "$oid": "6242dc3974a2cbf3053066b4"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623108a684ebaf3e8f1bbf9d"
+  },
+  "first_name": "Khiem",
+  "last_name": "Le",
+  "titles": [
+    "Senior Lecturer I - Computer Science"
+  ],
+  "email": "kvl140030@utdallas.edu",
+  "phone_number": "+1 (972) 883-6217",
+  "office": {
+    "building": "ECS",
+    "room": "3.703",
+    "map_uri": "https://locator.utdallas.edu/ECS_3.703"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/kvl140030",
+  "image_uri": "https://profiles.utdallas.edu/img/default.png",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c41e27d0c74c4094559"
+    },
+    {
+      "$oid": "62414c46e27d0c74c4094569"
+    },
+    {
+      "$oid": "62414c48e27d0c74c409456f"
+    },
+    {
+      "$oid": "62414c4ae27d0c74c4094573"
+    },
+    {
+      "$oid": "62412c810cef69f0ebc9c2c6"
+    },
+    {
+      "$oid": "624145040cef69f0ebc9c4d6"
+    },
+    {
+      "$oid": "624145070cef69f0ebc9c4e3"
+    },
+    {
+      "$oid": "624146680cef69f0ebc9c563"
+    },
+    {
+      "$oid": "624202c69f98f082445205ef"
+    },
+    {
+      "$oid": "624202e69f98f08244520649"
+    },
+    {
+      "$oid": "6241fa87c9e4c7fafbcbf387"
+    },
+    {
+      "$oid": "6241fb23c9e4c7fafbcbf3b7"
+    },
+    {
+      "$oid": "62423419c9e4c7fafbcbf781"
+    },
+    {
+      "$oid": "62423421c9e4c7fafbcbf7a1"
+    },
+    {
+      "$oid": "623fd3fabf28b6d88d6c7483"
+    },
+    {
+      "$oid": "623fd3fcbf28b6d88d6c7487"
+    },
+    {
+      "$oid": "623fd469bf28b6d88d6c7500"
+    },
+    {
+      "$oid": "623fedf2bf28b6d88d6c7727"
+    },
+    {
+      "$oid": "623fedf3bf28b6d88d6c772b"
+    },
+    {
+      "$oid": "623ff222bf28b6d88d6c77dc"
+    },
+    {
+      "$oid": "6240b70c4adab090a35fd6a2"
+    },
+    {
+      "$oid": "6240b70e4adab090a35fd6a6"
+    },
+    {
+      "$oid": "6240b7274adab090a35fd6f6"
+    },
+    {
+      "$oid": "6240ebe6ba30b4ebd5adb918"
+    },
+    {
+      "$oid": "6240ebe7ba30b4ebd5adb91b"
+    },
+    {
+      "$oid": "6240ed55ba30b4ebd5adb996"
+    },
+    {
+      "$oid": "62410479ba30b4ebd5adbba6"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbba9"
+    },
+    {
+      "$oid": "624106a0ba30b4ebd5adbc38"
+    },
+    {
+      "$oid": "6241779dba30b4ebd5adc968"
+    },
+    {
+      "$oid": "6241779eba30b4ebd5adc96b"
+    },
+    {
+      "$oid": "624177c9ba30b4ebd5adc9c9"
+    },
+    {
+      "$oid": "6241de6aa698d6bd4b833a4c"
+    },
+    {
+      "$oid": "6241df06a698d6bd4b833a89"
+    },
+    {
+      "$oid": "6241e7cca698d6bd4b833b52"
+    },
+    {
+      "$oid": "6241e7d5a698d6bd4b833b84"
+    },
+    {
+      "$oid": "6242122ca698d6bd4b833f31"
+    },
+    {
+      "$oid": "624212a6a698d6bd4b833f52"
+    },
+    {
+      "$oid": "62405d75ddc4b627a73bfef2"
+    },
+    {
+      "$oid": "62405d76ddc4b627a73bfef5"
+    },
+    {
+      "$oid": "62405ebaddc4b627a73bff78"
+    },
+    {
+      "$oid": "624077deddc4b627a73c00df"
+    },
+    {
+      "$oid": "624077dfddc4b627a73c00e2"
+    },
+    {
+      "$oid": "62407a00ddc4b627a73c017e"
+    },
+    {
+      "$oid": "6240f356ddc4b627a73c1026"
+    },
+    {
+      "$oid": "6240f357ddc4b627a73c1029"
+    },
+    {
+      "$oid": "6240f376ddc4b627a73c1085"
+    },
+    {
+      "$oid": "62416c3a4f665f12b9425c4b"
+    },
+    {
+      "$oid": "624175494f665f12b9425d4b"
+    },
+    {
+      "$oid": "6241a1774f665f12b94261a1"
+    },
+    {
+      "$oid": "623fcb5148c0b7b7e6837939"
+    },
+    {
+      "$oid": "62424de022d0f47645915117"
+    },
+    {
+      "$oid": "6242551a22d0f4764591520c"
+    },
+    {
+      "$oid": "624282a622d0f476459155f1"
+    },
+    {
+      "$oid": "623ef0d893143dc133cc706f"
+    },
+    {
+      "$oid": "623efdc3435446f4890bf32a"
+    },
+    {
+      "$oid": "623efdc4435446f4890bf32e"
+    },
+    {
+      "$oid": "623f0096435446f4890bf3b7"
+    },
+    {
+      "$oid": "6242a2d386ab87d6f6d992b2"
+    },
+    {
+      "$oid": "6242a97f86ab87d6f6d9938a"
+    },
+    {
+      "$oid": "6242041f74a2cbf3053051b2"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fc346b8bc16815e8679a9"
+  },
+  "first_name": "Scott",
+  "last_name": "Dollinger",
+  "titles": [],
+  "email": "smd013000@utdallas.edu",
+  "phone_number": null,
+  "office": null,
+  "profile_uri": null,
+  "image_uri": null,
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "623fd3fbbf28b6d88d6c7484"
+    },
+    {
+      "$oid": "623fd3fbbf28b6d88d6c7486"
+    },
+    {
+      "$oid": "623fedeebf28b6d88d6c771b"
+    },
+    {
+      "$oid": "623fedf2bf28b6d88d6c7728"
+    },
+    {
+      "$oid": "623fedf3bf28b6d88d6c772a"
+    },
+    {
+      "$oid": "6240b70d4adab090a35fd6a3"
+    },
+    {
+      "$oid": "6240b70e4adab090a35fd6a5"
+    },
+    {
+      "$oid": "623ff8c42e493a3184b4981d"
+    },
+    {
+      "$oid": "623ff90b2e493a3184b4983d"
+    },
+    {
+      "$oid": "624122bd1d567db1444ad7ed"
+    },
+    {
+      "$oid": "624123ac1d567db1444ad806"
+    },
+    {
+      "$oid": "623fc85248c0b7b7e68378b2"
+    },
+    {
+      "$oid": "623fc85348c0b7b7e68378b6"
+    },
+    {
+      "$oid": "62424d1e22d0f476459150e7"
+    },
+    {
+      "$oid": "6242550b22d0f476459151cd"
+    },
+    {
+      "$oid": "6242550d22d0f476459151d6"
+    },
+    {
+      "$oid": "623efdc3435446f4890bf32b"
+    },
+    {
+      "$oid": "623efdc4435446f4890bf32d"
+    },
+    {
+      "$oid": "6242a21386ab87d6f6d9927c"
+    },
+    {
+      "$oid": "6242a97086ab87d6f6d9934e"
+    },
+    {
+      "$oid": "6240e868c32d55529d9be6df"
+    },
+    {
+      "$oid": "6240e868c32d55529d9be6e1"
+    },
+    {
+      "$oid": "6241177b51d891df387c2de8"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed7"
+    },
+    {
+      "$oid": "62411f2551d891df387c2eec"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231097584ebaf3e8f1bc177"
+  },
+  "first_name": "Don",
+  "last_name": "Vogel",
+  "titles": [
+    "Senior Lecturer I - Computer Science"
+  ],
+  "email": "dgv130030@utdallas.edu",
+  "phone_number": "+1 (972) 883-3551",
+  "office": {
+    "building": "ECS",
+    "room": "3.211",
+    "map_uri": "https://locator.utdallas.edu/ECS_3.211"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/don.vogel",
+  "image_uri": "https://profiles.utdallas.edu/img/default.png",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "6241328ce27d0c74c40942e1"
+    },
+    {
+      "$oid": "62413291e27d0c74c40942f0"
+    },
+    {
+      "$oid": "62414c33e27d0c74c4094530"
+    },
+    {
+      "$oid": "62414c34e27d0c74c4094532"
+    },
+    {
+      "$oid": "62414c34e27d0c74c4094533"
+    },
+    {
+      "$oid": "62414c34e27d0c74c4094534"
+    },
+    {
+      "$oid": "62414c35e27d0c74c4094535"
+    },
+    {
+      "$oid": "62414c35e27d0c74c4094536"
+    },
+    {
+      "$oid": "62414c35e27d0c74c4094537"
+    },
+    {
+      "$oid": "62414c36e27d0c74c4094538"
+    },
+    {
+      "$oid": "62414c36e27d0c74c4094539"
+    },
+    {
+      "$oid": "62414c36e27d0c74c409453a"
+    },
+    {
+      "$oid": "62414c37e27d0c74c409453b"
+    },
+    {
+      "$oid": "62414c37e27d0c74c409453c"
+    },
+    {
+      "$oid": "62414c38e27d0c74c409453d"
+    },
+    {
+      "$oid": "62414c38e27d0c74c409453e"
+    },
+    {
+      "$oid": "62414c38e27d0c74c409453f"
+    },
+    {
+      "$oid": "62414c39e27d0c74c4094540"
+    },
+    {
+      "$oid": "62414c39e27d0c74c4094541"
+    },
+    {
+      "$oid": "62414c39e27d0c74c4094542"
+    },
+    {
+      "$oid": "62414c3ae27d0c74c4094543"
+    },
+    {
+      "$oid": "62414c4ee27d0c74c409457f"
+    },
+    {
+      "$oid": "62414c52e27d0c74c409458e"
+    },
+    {
+      "$oid": "624144fd0cef69f0ebc9c4b7"
+    },
+    {
+      "$oid": "624144fe0cef69f0ebc9c4b9"
+    },
+    {
+      "$oid": "624144fe0cef69f0ebc9c4ba"
+    },
+    {
+      "$oid": "624144fe0cef69f0ebc9c4bc"
+    },
+    {
+      "$oid": "624144fe0cef69f0ebc9c4bd"
+    },
+    {
+      "$oid": "624144ff0cef69f0ebc9c4be"
+    },
+    {
+      "$oid": "624144ff0cef69f0ebc9c4bf"
+    },
+    {
+      "$oid": "624145030cef69f0ebc9c4d2"
+    },
+    {
+      "$oid": "623fd3fbbf28b6d88d6c7485"
+    },
+    {
+      "$oid": "623fd3fcbf28b6d88d6c7488"
+    },
+    {
+      "$oid": "623fede7bf28b6d88d6c76fb"
+    },
+    {
+      "$oid": "623fede8bf28b6d88d6c76fe"
+    },
+    {
+      "$oid": "623fede8bf28b6d88d6c76ff"
+    },
+    {
+      "$oid": "623fede8bf28b6d88d6c7700"
+    },
+    {
+      "$oid": "623fede9bf28b6d88d6c7701"
+    },
+    {
+      "$oid": "623fede9bf28b6d88d6c7702"
+    },
+    {
+      "$oid": "623fede9bf28b6d88d6c7703"
+    },
+    {
+      "$oid": "623fede9bf28b6d88d6c7704"
+    },
+    {
+      "$oid": "623fedf3bf28b6d88d6c7729"
+    },
+    {
+      "$oid": "623fedf4bf28b6d88d6c772c"
+    },
+    {
+      "$oid": "623fedfabf28b6d88d6c7741"
+    },
+    {
+      "$oid": "6240b70d4adab090a35fd6a4"
+    },
+    {
+      "$oid": "6240b70e4adab090a35fd6a7"
+    },
+    {
+      "$oid": "6240ebe7ba30b4ebd5adb91a"
+    },
+    {
+      "$oid": "6240ebe7ba30b4ebd5adb91c"
+    },
+    {
+      "$oid": "6241046eba30b4ebd5adbb7e"
+    },
+    {
+      "$oid": "6241046eba30b4ebd5adbb80"
+    },
+    {
+      "$oid": "6241046eba30b4ebd5adbb81"
+    },
+    {
+      "$oid": "6241046fba30b4ebd5adbb82"
+    },
+    {
+      "$oid": "6241046fba30b4ebd5adbb83"
+    },
+    {
+      "$oid": "62410474ba30b4ebd5adbb99"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbba8"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbbaa"
+    },
+    {
+      "$oid": "6241779dba30b4ebd5adc96a"
+    },
+    {
+      "$oid": "6241779eba30b4ebd5adc96c"
+    },
+    {
+      "$oid": "6241de6aa698d6bd4b833a4e"
+    },
+    {
+      "$oid": "6241e7cca698d6bd4b833b53"
+    },
+    {
+      "$oid": "6242122ca698d6bd4b833f32"
+    },
+    {
+      "$oid": "623ff8dd2e493a3184b49826"
+    },
+    {
+      "$oid": "6241236c1d567db1444ad7f4"
+    },
+    {
+      "$oid": "62405d76ddc4b627a73bfef4"
+    },
+    {
+      "$oid": "62405d77ddc4b627a73bfef6"
+    },
+    {
+      "$oid": "62405d7cddc4b627a73bff0c"
+    },
+    {
+      "$oid": "624077d2ddc4b627a73c00b6"
+    },
+    {
+      "$oid": "624077d3ddc4b627a73c00b9"
+    },
+    {
+      "$oid": "624077d3ddc4b627a73c00ba"
+    },
+    {
+      "$oid": "624077d4ddc4b627a73c00bb"
+    },
+    {
+      "$oid": "624077d4ddc4b627a73c00bc"
+    },
+    {
+      "$oid": "624077d4ddc4b627a73c00bd"
+    },
+    {
+      "$oid": "624077dfddc4b627a73c00e1"
+    },
+    {
+      "$oid": "624077e0ddc4b627a73c00e3"
+    },
+    {
+      "$oid": "624077e5ddc4b627a73c00f4"
+    },
+    {
+      "$oid": "6240f357ddc4b627a73c1028"
+    },
+    {
+      "$oid": "6240f357ddc4b627a73c102a"
+    },
+    {
+      "$oid": "6240f35cddc4b627a73c1038"
+    },
+    {
+      "$oid": "62416b9c4f665f12b9425c10"
+    },
+    {
+      "$oid": "624175414f665f12b9425d0a"
+    },
+    {
+      "$oid": "6241a1724f665f12b9426182"
+    },
+    {
+      "$oid": "62424d1f22d0f476459150e9"
+    },
+    {
+      "$oid": "6242550b22d0f476459151ce"
+    },
+    {
+      "$oid": "6242829f22d0f476459155d6"
+    },
+    {
+      "$oid": "623efdc4435446f4890bf32f"
+    },
+    {
+      "$oid": "6242a21386ab87d6f6d99281"
+    },
+    {
+      "$oid": "6242a97186ab87d6f6d99351"
+    },
+    {
+      "$oid": "6241177b51d891df387c2deb"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed9"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623fc346b8bc16815e8679a9"
+  },
+  "first_name": "Scott",
+  "last_name": "Dollinger",
+  "titles": [],
+  "email": "smd013000@utdallas.edu",
+  "phone_number": null,
+  "office": null,
+  "profile_uri": null,
+  "image_uri": null,
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "623fd3fbbf28b6d88d6c7484"
+    },
+    {
+      "$oid": "623fd3fbbf28b6d88d6c7486"
+    },
+    {
+      "$oid": "623fedeebf28b6d88d6c771b"
+    },
+    {
+      "$oid": "623fedf2bf28b6d88d6c7728"
+    },
+    {
+      "$oid": "623fedf3bf28b6d88d6c772a"
+    },
+    {
+      "$oid": "6240b70d4adab090a35fd6a3"
+    },
+    {
+      "$oid": "6240b70e4adab090a35fd6a5"
+    },
+    {
+      "$oid": "623ff8c42e493a3184b4981d"
+    },
+    {
+      "$oid": "623ff90b2e493a3184b4983d"
+    },
+    {
+      "$oid": "624122bd1d567db1444ad7ed"
+    },
+    {
+      "$oid": "624123ac1d567db1444ad806"
+    },
+    {
+      "$oid": "623fc85248c0b7b7e68378b2"
+    },
+    {
+      "$oid": "623fc85348c0b7b7e68378b6"
+    },
+    {
+      "$oid": "62424d1e22d0f476459150e7"
+    },
+    {
+      "$oid": "6242550b22d0f476459151cd"
+    },
+    {
+      "$oid": "6242550d22d0f476459151d6"
+    },
+    {
+      "$oid": "623efdc3435446f4890bf32b"
+    },
+    {
+      "$oid": "623efdc4435446f4890bf32d"
+    },
+    {
+      "$oid": "6242a21386ab87d6f6d9927c"
+    },
+    {
+      "$oid": "6242a97086ab87d6f6d9934e"
+    },
+    {
+      "$oid": "6240e868c32d55529d9be6df"
+    },
+    {
+      "$oid": "6240e868c32d55529d9be6e1"
+    },
+    {
+      "$oid": "6241177b51d891df387c2de8"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed7"
+    },
+    {
+      "$oid": "62411f2551d891df387c2eec"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623108a684ebaf3e8f1bbf9d"
+  },
+  "first_name": "Khiem",
+  "last_name": "Le",
+  "titles": [
+    "Senior Lecturer I - Computer Science"
+  ],
+  "email": "kvl140030@utdallas.edu",
+  "phone_number": "+1 (972) 883-6217",
+  "office": {
+    "building": "ECS",
+    "room": "3.703",
+    "map_uri": "https://locator.utdallas.edu/ECS_3.703"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/kvl140030",
+  "image_uri": "https://profiles.utdallas.edu/img/default.png",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62414c41e27d0c74c4094559"
+    },
+    {
+      "$oid": "62414c46e27d0c74c4094569"
+    },
+    {
+      "$oid": "62414c48e27d0c74c409456f"
+    },
+    {
+      "$oid": "62414c4ae27d0c74c4094573"
+    },
+    {
+      "$oid": "62412c810cef69f0ebc9c2c6"
+    },
+    {
+      "$oid": "624145040cef69f0ebc9c4d6"
+    },
+    {
+      "$oid": "624145070cef69f0ebc9c4e3"
+    },
+    {
+      "$oid": "624146680cef69f0ebc9c563"
+    },
+    {
+      "$oid": "624202c69f98f082445205ef"
+    },
+    {
+      "$oid": "624202e69f98f08244520649"
+    },
+    {
+      "$oid": "6241fa87c9e4c7fafbcbf387"
+    },
+    {
+      "$oid": "6241fb23c9e4c7fafbcbf3b7"
+    },
+    {
+      "$oid": "62423419c9e4c7fafbcbf781"
+    },
+    {
+      "$oid": "62423421c9e4c7fafbcbf7a1"
+    },
+    {
+      "$oid": "623fd3fabf28b6d88d6c7483"
+    },
+    {
+      "$oid": "623fd3fcbf28b6d88d6c7487"
+    },
+    {
+      "$oid": "623fd469bf28b6d88d6c7500"
+    },
+    {
+      "$oid": "623fedf2bf28b6d88d6c7727"
+    },
+    {
+      "$oid": "623fedf3bf28b6d88d6c772b"
+    },
+    {
+      "$oid": "623ff222bf28b6d88d6c77dc"
+    },
+    {
+      "$oid": "6240b70c4adab090a35fd6a2"
+    },
+    {
+      "$oid": "6240b70e4adab090a35fd6a6"
+    },
+    {
+      "$oid": "6240b7274adab090a35fd6f6"
+    },
+    {
+      "$oid": "6240ebe6ba30b4ebd5adb918"
+    },
+    {
+      "$oid": "6240ebe7ba30b4ebd5adb91b"
+    },
+    {
+      "$oid": "6240ed55ba30b4ebd5adb996"
+    },
+    {
+      "$oid": "62410479ba30b4ebd5adbba6"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbba9"
+    },
+    {
+      "$oid": "624106a0ba30b4ebd5adbc38"
+    },
+    {
+      "$oid": "6241779dba30b4ebd5adc968"
+    },
+    {
+      "$oid": "6241779eba30b4ebd5adc96b"
+    },
+    {
+      "$oid": "624177c9ba30b4ebd5adc9c9"
+    },
+    {
+      "$oid": "6241de6aa698d6bd4b833a4c"
+    },
+    {
+      "$oid": "6241df06a698d6bd4b833a89"
+    },
+    {
+      "$oid": "6241e7cca698d6bd4b833b52"
+    },
+    {
+      "$oid": "6241e7d5a698d6bd4b833b84"
+    },
+    {
+      "$oid": "6242122ca698d6bd4b833f31"
+    },
+    {
+      "$oid": "624212a6a698d6bd4b833f52"
+    },
+    {
+      "$oid": "62405d75ddc4b627a73bfef2"
+    },
+    {
+      "$oid": "62405d76ddc4b627a73bfef5"
+    },
+    {
+      "$oid": "62405ebaddc4b627a73bff78"
+    },
+    {
+      "$oid": "624077deddc4b627a73c00df"
+    },
+    {
+      "$oid": "624077dfddc4b627a73c00e2"
+    },
+    {
+      "$oid": "62407a00ddc4b627a73c017e"
+    },
+    {
+      "$oid": "6240f356ddc4b627a73c1026"
+    },
+    {
+      "$oid": "6240f357ddc4b627a73c1029"
+    },
+    {
+      "$oid": "6240f376ddc4b627a73c1085"
+    },
+    {
+      "$oid": "62416c3a4f665f12b9425c4b"
+    },
+    {
+      "$oid": "624175494f665f12b9425d4b"
+    },
+    {
+      "$oid": "6241a1774f665f12b94261a1"
+    },
+    {
+      "$oid": "623fcb5148c0b7b7e6837939"
+    },
+    {
+      "$oid": "62424de022d0f47645915117"
+    },
+    {
+      "$oid": "6242551a22d0f4764591520c"
+    },
+    {
+      "$oid": "624282a622d0f476459155f1"
+    },
+    {
+      "$oid": "623ef0d893143dc133cc706f"
+    },
+    {
+      "$oid": "623efdc3435446f4890bf32a"
+    },
+    {
+      "$oid": "623efdc4435446f4890bf32e"
+    },
+    {
+      "$oid": "623f0096435446f4890bf3b7"
+    },
+    {
+      "$oid": "6242a2d386ab87d6f6d992b2"
+    },
+    {
+      "$oid": "6242a97f86ab87d6f6d9938a"
+    },
+    {
+      "$oid": "6242041f74a2cbf3053051b2"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231094b84ebaf3e8f1bc117"
+  },
+  "first_name": "Jason",
+  "last_name": "Smith",
+  "titles": [
+    "Senior Lecturer I - Computer Science"
+  ],
+  "email": "jws130830@utdallas.edu",
+  "phone_number": "+1 (972) 883-4835",
+  "office": {
+    "building": "ECS",
+    "room": "3.232",
+    "map_uri": "https://locator.utdallas.edu/ECS_3.232"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/smith",
+  "image_uri": "https://profiles.utdallas.edu/img/default.png",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "62413289e27d0c74c40942d9"
+    },
+    {
+      "$oid": "6241328ae27d0c74c40942db"
+    },
+    {
+      "$oid": "6241328ce27d0c74c40942e1"
+    },
+    {
+      "$oid": "62413291e27d0c74c40942f1"
+    },
+    {
+      "$oid": "62414c45e27d0c74c4094567"
+    },
+    {
+      "$oid": "62414c4be27d0c74c4094577"
+    },
+    {
+      "$oid": "62414c4ce27d0c74c4094579"
+    },
+    {
+      "$oid": "62414c4ee27d0c74c409457f"
+    },
+    {
+      "$oid": "62414c53e27d0c74c409458f"
+    },
+    {
+      "$oid": "62412b990cef69f0ebc9c24a"
+    },
+    {
+      "$oid": "62412b990cef69f0ebc9c24b"
+    },
+    {
+      "$oid": "62412b9e0cef69f0ebc9c25f"
+    },
+    {
+      "$oid": "62412b9e0cef69f0ebc9c261"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4df"
+    },
+    {
+      "$oid": "624145060cef69f0ebc9c4e0"
+    },
+    {
+      "$oid": "6241450a0cef69f0ebc9c4f1"
+    },
+    {
+      "$oid": "6241450b0cef69f0ebc9c4f3"
+    },
+    {
+      "$oid": "624202c59f98f082445205ec"
+    },
+    {
+      "$oid": "624202c59f98f082445205ed"
+    },
+    {
+      "$oid": "624202d39f98f082445205fa"
+    },
+    {
+      "$oid": "624202d39f98f082445205fc"
+    },
+    {
+      "$oid": "623fd3f9bf28b6d88d6c747f"
+    },
+    {
+      "$oid": "623fd3f9bf28b6d88d6c7480"
+    },
+    {
+      "$oid": "623fd3fcbf28b6d88d6c7488"
+    },
+    {
+      "$oid": "623fd402bf28b6d88d6c749b"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7723"
+    },
+    {
+      "$oid": "623fedf1bf28b6d88d6c7724"
+    },
+    {
+      "$oid": "623fedf4bf28b6d88d6c772c"
+    },
+    {
+      "$oid": "623fedf8bf28b6d88d6c773d"
+    },
+    {
+      "$oid": "6240b70b4adab090a35fd69f"
+    },
+    {
+      "$oid": "6240b70c4adab090a35fd6a0"
+    },
+    {
+      "$oid": "6240b70e4adab090a35fd6a7"
+    },
+    {
+      "$oid": "6240b7124adab090a35fd6b5"
+    },
+    {
+      "$oid": "6240ebe4ba30b4ebd5adb914"
+    },
+    {
+      "$oid": "6240ebe5ba30b4ebd5adb915"
+    },
+    {
+      "$oid": "6240ebe7ba30b4ebd5adb91c"
+    },
+    {
+      "$oid": "6240ebebba30b4ebd5adb92c"
+    },
+    {
+      "$oid": "6240ebecba30b4ebd5adb92e"
+    },
+    {
+      "$oid": "62410477ba30b4ebd5adbba2"
+    },
+    {
+      "$oid": "62410478ba30b4ebd5adbba3"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbbaa"
+    },
+    {
+      "$oid": "6241047eba30b4ebd5adbbb7"
+    },
+    {
+      "$oid": "6241047eba30b4ebd5adbbb9"
+    },
+    {
+      "$oid": "6241779bba30b4ebd5adc965"
+    },
+    {
+      "$oid": "6241779cba30b4ebd5adc966"
+    },
+    {
+      "$oid": "6241779eba30b4ebd5adc96c"
+    },
+    {
+      "$oid": "624177a1ba30b4ebd5adc976"
+    },
+    {
+      "$oid": "624177a1ba30b4ebd5adc978"
+    },
+    {
+      "$oid": "6241de6aa698d6bd4b833a4e"
+    },
+    {
+      "$oid": "6241e7cca698d6bd4b833b53"
+    },
+    {
+      "$oid": "6242122ca698d6bd4b833f32"
+    },
+    {
+      "$oid": "623ff8c82e493a3184b4981e"
+    },
+    {
+      "$oid": "623ff8dd2e493a3184b49826"
+    },
+    {
+      "$oid": "623ff8f72e493a3184b49836"
+    },
+    {
+      "$oid": "624122be1d567db1444ad7ef"
+    },
+    {
+      "$oid": "6241236c1d567db1444ad7f4"
+    },
+    {
+      "$oid": "6241238b1d567db1444ad7ff"
+    },
+    {
+      "$oid": "62405d74ddc4b627a73bfeee"
+    },
+    {
+      "$oid": "62405d74ddc4b627a73bfeef"
+    },
+    {
+      "$oid": "62405d77ddc4b627a73bfef6"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00db"
+    },
+    {
+      "$oid": "624077ddddc4b627a73c00dc"
+    },
+    {
+      "$oid": "624077e0ddc4b627a73c00e3"
+    },
+    {
+      "$oid": "6240f355ddc4b627a73c1023"
+    },
+    {
+      "$oid": "6240f355ddc4b627a73c1024"
+    },
+    {
+      "$oid": "6240f357ddc4b627a73c102a"
+    },
+    {
+      "$oid": "62416b9c4f665f12b9425c10"
+    },
+    {
+      "$oid": "624175414f665f12b9425d0a"
+    },
+    {
+      "$oid": "6241a1724f665f12b9426182"
+    },
+    {
+      "$oid": "623fc85248c0b7b7e68378b5"
+    },
+    {
+      "$oid": "623fc88f48c0b7b7e68378b9"
+    },
+    {
+      "$oid": "623fc98848c0b7b7e68378d2"
+    },
+    {
+      "$oid": "62424d1f22d0f476459150e9"
+    },
+    {
+      "$oid": "6242550b22d0f476459151ce"
+    },
+    {
+      "$oid": "6242829f22d0f476459155d6"
+    },
+    {
+      "$oid": "623ef0d893143dc133cc706e"
+    },
+    {
+      "$oid": "623ef0f793143dc133cc7075"
+    },
+    {
+      "$oid": "623ef1b193143dc133cc7090"
+    },
+    {
+      "$oid": "623efdc2435446f4890bf326"
+    },
+    {
+      "$oid": "623efdc2435446f4890bf327"
+    },
+    {
+      "$oid": "623efdc4435446f4890bf32f"
+    },
+    {
+      "$oid": "623efdc9435446f4890bf346"
+    },
+    {
+      "$oid": "6242a21386ab87d6f6d99281"
+    },
+    {
+      "$oid": "6242a97186ab87d6f6d99351"
+    },
+    {
+      "$oid": "6242041f74a2cbf3053051b0"
+    },
+    {
+      "$oid": "6242042b74a2cbf3053051b7"
+    },
+    {
+      "$oid": "6242045574a2cbf3053051d5"
+    },
+    {
+      "$oid": "6241177b51d891df387c2deb"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed9"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231097584ebaf3e8f1bc177"
+  },
+  "first_name": "Don",
+  "last_name": "Vogel",
+  "titles": [
+    "Senior Lecturer I - Computer Science"
+  ],
+  "email": "dgv130030@utdallas.edu",
+  "phone_number": "+1 (972) 883-3551",
+  "office": {
+    "building": "ECS",
+    "room": "3.211",
+    "map_uri": "https://locator.utdallas.edu/ECS_3.211"
+  },
+  "profile_uri": "https://profiles.utdallas.edu/don.vogel",
+  "image_uri": "https://profiles.utdallas.edu/img/default.png",
+  "office_hours": [],
+  "sections": [
+    {
+      "$oid": "6241328ce27d0c74c40942e1"
+    },
+    {
+      "$oid": "62413291e27d0c74c40942f0"
+    },
+    {
+      "$oid": "62414c33e27d0c74c4094530"
+    },
+    {
+      "$oid": "62414c34e27d0c74c4094532"
+    },
+    {
+      "$oid": "62414c34e27d0c74c4094533"
+    },
+    {
+      "$oid": "62414c34e27d0c74c4094534"
+    },
+    {
+      "$oid": "62414c35e27d0c74c4094535"
+    },
+    {
+      "$oid": "62414c35e27d0c74c4094536"
+    },
+    {
+      "$oid": "62414c35e27d0c74c4094537"
+    },
+    {
+      "$oid": "62414c36e27d0c74c4094538"
+    },
+    {
+      "$oid": "62414c36e27d0c74c4094539"
+    },
+    {
+      "$oid": "62414c36e27d0c74c409453a"
+    },
+    {
+      "$oid": "62414c37e27d0c74c409453b"
+    },
+    {
+      "$oid": "62414c37e27d0c74c409453c"
+    },
+    {
+      "$oid": "62414c38e27d0c74c409453d"
+    },
+    {
+      "$oid": "62414c38e27d0c74c409453e"
+    },
+    {
+      "$oid": "62414c38e27d0c74c409453f"
+    },
+    {
+      "$oid": "62414c39e27d0c74c4094540"
+    },
+    {
+      "$oid": "62414c39e27d0c74c4094541"
+    },
+    {
+      "$oid": "62414c39e27d0c74c4094542"
+    },
+    {
+      "$oid": "62414c3ae27d0c74c4094543"
+    },
+    {
+      "$oid": "62414c4ee27d0c74c409457f"
+    },
+    {
+      "$oid": "62414c52e27d0c74c409458e"
+    },
+    {
+      "$oid": "624144fd0cef69f0ebc9c4b7"
+    },
+    {
+      "$oid": "624144fe0cef69f0ebc9c4b9"
+    },
+    {
+      "$oid": "624144fe0cef69f0ebc9c4ba"
+    },
+    {
+      "$oid": "624144fe0cef69f0ebc9c4bc"
+    },
+    {
+      "$oid": "624144fe0cef69f0ebc9c4bd"
+    },
+    {
+      "$oid": "624144ff0cef69f0ebc9c4be"
+    },
+    {
+      "$oid": "624144ff0cef69f0ebc9c4bf"
+    },
+    {
+      "$oid": "624145030cef69f0ebc9c4d2"
+    },
+    {
+      "$oid": "623fd3fbbf28b6d88d6c7485"
+    },
+    {
+      "$oid": "623fd3fcbf28b6d88d6c7488"
+    },
+    {
+      "$oid": "623fede7bf28b6d88d6c76fb"
+    },
+    {
+      "$oid": "623fede8bf28b6d88d6c76fe"
+    },
+    {
+      "$oid": "623fede8bf28b6d88d6c76ff"
+    },
+    {
+      "$oid": "623fede8bf28b6d88d6c7700"
+    },
+    {
+      "$oid": "623fede9bf28b6d88d6c7701"
+    },
+    {
+      "$oid": "623fede9bf28b6d88d6c7702"
+    },
+    {
+      "$oid": "623fede9bf28b6d88d6c7703"
+    },
+    {
+      "$oid": "623fede9bf28b6d88d6c7704"
+    },
+    {
+      "$oid": "623fedf3bf28b6d88d6c7729"
+    },
+    {
+      "$oid": "623fedf4bf28b6d88d6c772c"
+    },
+    {
+      "$oid": "623fedfabf28b6d88d6c7741"
+    },
+    {
+      "$oid": "6240b70d4adab090a35fd6a4"
+    },
+    {
+      "$oid": "6240b70e4adab090a35fd6a7"
+    },
+    {
+      "$oid": "6240ebe7ba30b4ebd5adb91a"
+    },
+    {
+      "$oid": "6240ebe7ba30b4ebd5adb91c"
+    },
+    {
+      "$oid": "6241046eba30b4ebd5adbb7e"
+    },
+    {
+      "$oid": "6241046eba30b4ebd5adbb80"
+    },
+    {
+      "$oid": "6241046eba30b4ebd5adbb81"
+    },
+    {
+      "$oid": "6241046fba30b4ebd5adbb82"
+    },
+    {
+      "$oid": "6241046fba30b4ebd5adbb83"
+    },
+    {
+      "$oid": "62410474ba30b4ebd5adbb99"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbba8"
+    },
+    {
+      "$oid": "6241047aba30b4ebd5adbbaa"
+    },
+    {
+      "$oid": "6241779dba30b4ebd5adc96a"
+    },
+    {
+      "$oid": "6241779eba30b4ebd5adc96c"
+    },
+    {
+      "$oid": "6241de6aa698d6bd4b833a4e"
+    },
+    {
+      "$oid": "6241e7cca698d6bd4b833b53"
+    },
+    {
+      "$oid": "6242122ca698d6bd4b833f32"
+    },
+    {
+      "$oid": "623ff8dd2e493a3184b49826"
+    },
+    {
+      "$oid": "6241236c1d567db1444ad7f4"
+    },
+    {
+      "$oid": "62405d76ddc4b627a73bfef4"
+    },
+    {
+      "$oid": "62405d77ddc4b627a73bfef6"
+    },
+    {
+      "$oid": "62405d7cddc4b627a73bff0c"
+    },
+    {
+      "$oid": "624077d2ddc4b627a73c00b6"
+    },
+    {
+      "$oid": "624077d3ddc4b627a73c00b9"
+    },
+    {
+      "$oid": "624077d3ddc4b627a73c00ba"
+    },
+    {
+      "$oid": "624077d4ddc4b627a73c00bb"
+    },
+    {
+      "$oid": "624077d4ddc4b627a73c00bc"
+    },
+    {
+      "$oid": "624077d4ddc4b627a73c00bd"
+    },
+    {
+      "$oid": "624077dfddc4b627a73c00e1"
+    },
+    {
+      "$oid": "624077e0ddc4b627a73c00e3"
+    },
+    {
+      "$oid": "624077e5ddc4b627a73c00f4"
+    },
+    {
+      "$oid": "6240f357ddc4b627a73c1028"
+    },
+    {
+      "$oid": "6240f357ddc4b627a73c102a"
+    },
+    {
+      "$oid": "6240f35cddc4b627a73c1038"
+    },
+    {
+      "$oid": "62416b9c4f665f12b9425c10"
+    },
+    {
+      "$oid": "624175414f665f12b9425d0a"
+    },
+    {
+      "$oid": "6241a1724f665f12b9426182"
+    },
+    {
+      "$oid": "62424d1f22d0f476459150e9"
+    },
+    {
+      "$oid": "6242550b22d0f476459151ce"
+    },
+    {
+      "$oid": "6242829f22d0f476459155d6"
+    },
+    {
+      "$oid": "623efdc4435446f4890bf32f"
+    },
+    {
+      "$oid": "6242a21386ab87d6f6d99281"
+    },
+    {
+      "$oid": "6242a97186ab87d6f6d99351"
+    },
+    {
+      "$oid": "6241177b51d891df387c2deb"
+    },
+    {
+      "$oid": "62411f2351d891df387c2ed9"
+    }
+  ],
+  "__v": 0
+}]

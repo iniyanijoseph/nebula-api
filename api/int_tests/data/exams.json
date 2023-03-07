@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "623f8ef656965e1884291c1d"
+  },
+  "type": "AP",
+  "name": "Computer Science A",
+  "yields": [
+    {
+      "requirement": {
+        "type": "exam",
+        "exam_reference": {
+          "$oid": "623f8ef656965e1884291c1d"
+        },
+        "minimum_score": 3
+      },
+      "outcome": [
+        [
+          {
+            "category": "free",
+            "credit_hours": 3
+          }
+        ]
+      ]
+    },
+    {
+      "requirement": {
+        "type": "exam",
+        "exam_reference": {
+          "$oid": "623f8ef656965e1884291c1d"
+        },
+        "minimum_score": 4
+      },
+      "outcome": [
+        [
+          {
+            "$oid": "62414c43e27d0c74c4094562"
+          },
+          {
+            "$oid": "62414c4be27d0c74c4094578"
+          }
+        ]
+      ]
+    },
+    {
+      "requirement": {
+        "type": "exam",
+        "exam_reference": {
+          "$oid": "623f8ef656965e1884291c1d"
+        },
+        "minimum_score": 5
+      },
+      "outcome": [
+        [
+          {
+            "$oid": "62414c43e27d0c74c4094562"
+          },
+          {
+            "$oid": "62414c4be27d0c74c4094578"
+          }
+        ]
+      ]
+    }
+  ]
+}]
