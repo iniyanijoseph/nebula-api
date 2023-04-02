@@ -1,11 +1,13 @@
 package inttest_test
 
 import (
-	"bytes"
+	"bufio"
 	"context"
 	"fmt"
+	"io"
 	"log"
 	"os"
+	"sync"
 	"testing"
 	"time"
 
@@ -80,10 +82,22 @@ func importData(resource *dockertest.Resource) {
 		if err != nil {
 			log.Fatalf("failed to open collection file for %s: %s", coll, err)
 		}
-		defer f.Close()
 
-		var stdout bytes.Buffer
-		var stderr bytes.Buffer
+		stdOutOut, stdOutIn := io.Pipe()
+		stdErrOut, stdErrIn := io.Pipe()
+
+		var wg sync.WaitGroup
+		wg.Add(2)
+
+		defer func() {
+			f.Close()
+			stdOutIn.Close()
+			stdErrIn.Close()
+			wg.Wait()
+		}()
+
+		go monitorPipe("mongoimport", stdOutOut, &wg)
+		go monitorPipe("mongoimport", stdErrOut, &wg)
 
 		log.Printf("beginning import of %s collection", coll)
 
@@ -98,18 +112,28 @@ func importData(resource *dockertest.Resource) {
 				"json",
 				"--jsonArray",
 			},
-			dockertest.ExecOptions{StdIn: f, StdOut: &stdout, StdErr: &stderr},
+			dockertest.ExecOptions{StdIn: f, StdOut: stdOutIn, StdErr: stdErrIn},
 		)
 
-		if err != nil || code != 0 {
-			log.Printf("failed to execute mongoimport on collection %s: %s", coll, err)
-			log.Printf("exitcode = %d", code)
-			log.Println("stderr:")
-			log.Println(stderr.String())
-			log.Println("stdout:")
-			log.Fatalln(stdout.String())
+		if err != nil {
+			log.Fatalf("failed to execute mongoimport on collection %s: %s", coll, err)
+		}
+
+		if code != 0 {
+			log.Fatalf("mongoimport returned non-zero exit code on collection %s", coll)
 		}
 
 		log.Printf("successfully imported the %s collection", coll)
+	}
+}
+
+func monitorPipe(prefix string, input io.Reader, wg *sync.WaitGroup) {
+	defer wg.Done()
+	scanner := bufio.NewScanner(input)
+	for scanner.Scan() {
+		log.Printf("[%s] %s", prefix, scanner.Text())
+	}
+	if err := scanner.Err(); err != nil {
+		log.Printf("scanner error: %s", err)
 	}
 }
