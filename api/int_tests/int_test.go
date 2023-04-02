@@ -17,11 +17,21 @@ import (
 )
 
 func TestMain(m *testing.M) {
+	pool, resource := setup()
+	defer teardown(pool, resource)
+}
+
+func setup() (*dockertest.Pool, *dockertest.Resource) {
 	pool := createDockerPool()
 	resource := createMongoResource(pool)
-	defer purgeResourceFromPool(pool, resource)
 	waitForMongoResource(pool, resource)
 	importData(resource)
+
+	return pool, resource
+}
+
+func teardown(pool *dockertest.Pool, resource *dockertest.Resource) {
+	purgeResourceFromPool(pool, resource)
 }
 
 func createDockerPool() *dockertest.Pool {
