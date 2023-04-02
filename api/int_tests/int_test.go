@@ -131,9 +131,9 @@ func monitorPipe(prefix string, input io.Reader, wg *sync.WaitGroup) {
 	defer wg.Done()
 	scanner := bufio.NewScanner(input)
 	for scanner.Scan() {
-		log.Printf("[%s] %s", prefix, scanner.Text())
+		fmt.Printf("[%s] %s\n", prefix, scanner.Text())
 	}
 	if err := scanner.Err(); err != nil {
-		log.Printf("scanner error: %s", err)
+		fmt.Printf("scanner error: %s", err)
 	}
 }
