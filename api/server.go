@@ -7,9 +7,8 @@ import (
 )
 
 func main() {
-
 	// Establish the connection to the database
-	configs.ConnectDB()
+	client := configs.ConnectDB()
 
 	// Configure Gin Router
 	router := gin.Default()
@@ -18,7 +17,7 @@ func main() {
 	router.Use(CORS())
 
 	// Connect Routes
-	routes.CourseRoute(router)
+	routes.CourseRoute(router, client)
 
 	// Retrieve the port string to serve traffic on
 	portString := configs.GetPortString()
