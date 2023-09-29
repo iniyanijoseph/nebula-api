@@ -67,3 +67,6 @@ go.work
 
 # API go executable
 api/go-api
+
+# VSCode dev container
+.devcontainer
