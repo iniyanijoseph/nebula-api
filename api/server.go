@@ -19,12 +19,6 @@ func main() {
 
 	// Connect Routes
 	routes.CourseRoute(router)
-	routes.DegreeRoute(router)
-	routes.ExamRoute(router)
-	routes.SectionRoute(router)
-	routes.ProfessorRoute(router)
-	routes.GradesRoute(router)
-	routes.AutocompleteRoute(router)
 
 	// Retrieve the port string to serve traffic on
 	portString := configs.GetPortString()
