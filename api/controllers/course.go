@@ -5,17 +5,18 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/UTDNebula/nebula-api/api/dao"
+	"github.com/UTDNebula/nebula-api/api/dao/course"
 	"github.com/UTDNebula/nebula-api/api/responses"
+	"github.com/pkg/errors"
 
 	"github.com/gin-gonic/gin"
 )
 
 type CourseAPI struct {
-	dao dao.CourseDao
+	dao course.Dao
 }
 
-func NewCourseAPI(dao dao.CourseDao) *CourseAPI {
+func NewCourseAPI(dao course.Dao) *CourseAPI {
 	return &CourseAPI{dao: dao}
 }
 
@@ -23,21 +24,22 @@ func (api *CourseAPI) Search(c *gin.Context) {
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
-	filter := dao.CourseFilter{
-		CourseNumber:         c.Query("course_number"),
-		SubjectPrefix:        c.Query("subject_prefix"),
-		Title:                c.Query("title"),
-		Description:          c.Query("description"),
-		School:               c.Query("school"),
-		CreditHours:          c.Query("credit_hours"),
-		ActivityType:         c.Query("activity_type"),
-		Grading:              c.Query("grading"),
-		InternalCourseNumber: c.Query("internal_course_number"),
-		LectureContactHours:  c.Query("lecture_contact_hours"),
-		OfferingFrequency:    c.Query("offering_frequency"),
+	filter, err := course.NewFilterFromQueryParams(c.Request.URL.Query())
+	if err != nil {
+		if _, ok := errors.Cause(err).(*course.InvalidKeyError); ok {
+			c.JSON(
+				http.StatusBadRequest,
+				responses.CourseResponse{Message: err.Error()},
+			)
+		} else {
+			c.JSON(
+				http.StatusInternalServerError,
+				responses.CourseResponse{Message: err.Error()},
+			)
+		}
 	}
 
-	courses, err := api.dao.Filter(ctx, &filter)
+	courses, err := api.dao.Filter(ctx, filter)
 	if err != nil {
 		c.JSON(
 			http.StatusInternalServerError,

@@ -5,14 +5,14 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 
 	"github.com/UTDNebula/nebula-api/api/controllers"
-	"github.com/UTDNebula/nebula-api/api/dao"
+	"github.com/UTDNebula/nebula-api/api/dao/course"
 )
 
 func CourseRoute(router *gin.Engine, client *mongo.Client) {
 	// All routes related to courses come here
 	courseGroup := router.Group("/course")
 
-	dao := dao.NewCourseDao(client, "courses")
+	dao := course.NewDao(client, "courses")
 	api := controllers.NewCourseAPI(dao)
 	courseGroup.OPTIONS("", controllers.Preflight)
 	courseGroup.GET("", api.Search)
