@@ -2,22 +2,23 @@ package controllers
 
 import (
 	"context"
+	"fmt"
 	"net/http"
+	"reflect"
 	"time"
 
-	"github.com/UTDNebula/nebula-api/api/dao/course"
+	"github.com/UTDNebula/nebula-api/api/dao"
 	"github.com/UTDNebula/nebula-api/api/responses"
-	"github.com/gorilla/schema"
 	"github.com/pkg/errors"
 
 	"github.com/gin-gonic/gin"
 )
 
 type CourseAPI struct {
-	dao course.Dao
+	dao dao.CourseDao
 }
 
-func NewCourseAPI(dao course.Dao) *CourseAPI {
+func NewCourseAPI(dao dao.CourseDao) *CourseAPI {
 	return &CourseAPI{dao: dao}
 }
 
@@ -25,19 +26,22 @@ func (api *CourseAPI) Search(c *gin.Context) {
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
-	filter, err := course.NewFilterFromValues(c.Request.URL.Query())
+	filter, err := dao.NewCourseFilterFromValues(c.Request.URL.Query())
 	if err != nil {
-		if _, ok := errors.Cause(err).(schema.UnknownKeyError); ok {
+		fmt.Println(reflect.TypeOf(errors.Cause(err)))
+		if dao.IsUnknownFieldErr(err) {
 			c.JSON(
 				http.StatusBadRequest,
 				responses.CourseResponse{Message: err.Error()},
 			)
-		} else {
-			c.JSON(
-				http.StatusInternalServerError,
-				responses.CourseResponse{Message: err.Error()},
-			)
+			return
 		}
+
+		c.JSON(
+			http.StatusInternalServerError,
+			responses.CourseResponse{Message: err.Error()},
+		)
+		return
 	}
 
 	courses, err := api.dao.Filter(ctx, filter)
@@ -46,6 +50,7 @@ func (api *CourseAPI) Search(c *gin.Context) {
 			http.StatusInternalServerError,
 			responses.CourseResponse{Message: "Internal Server Error: " + err.Error()},
 		)
+		return
 	}
 
 	c.JSON(http.StatusOK, responses.CourseResponse{

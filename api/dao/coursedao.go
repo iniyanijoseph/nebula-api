@@ -1,18 +1,18 @@
-package course
+package dao
 
 import (
 	"context"
 
-	"github.com/UTDNebula/nebula-api/api/dao"
 	"github.com/gorilla/schema"
 	"github.com/pkg/errors"
 	"go.mongodb.org/mongo-driver/bson"
+	"go.mongodb.org/mongo-driver/mongo"
 )
 
 type Course map[string]interface{}
 
-// Filter represents the filter parameters for the MongoDB query.
-type Filter struct {
+// CourseFilter represents the filter parameters for the MongoDB query.
+type CourseFilter struct {
 	CourseNumber           string `bson:"course_number,omitempty" schema:"course_number,omitempty"`
 	SubjectPrefix          string `bson:"subject_prefix,omitempty" schema:"subject_prefix,omitempty"`
 	School                 string `bson:"school,omitempty" schema:"school,omitempty"`
@@ -24,35 +24,41 @@ type Filter struct {
 	LectureContactHours    string `bson:"lecture_contact_hours,omitempty" schema:"lecture_contact_hours,omitempty"`
 	LaboratoryContactHours string `bson:"laboratory_contact_hours,omitempty" schema:"laboratory_contact_hours,omitempty"`
 	OfferingFrequency      string `bson:"offering_frequency,omitempty" schema:"offering_frequency,omitempty"`
-	Offset                 int64  `schema:"offset,omitempty"`
+	Offset                 int64  `bson:"-" schema:"offset,omitempty"`
 }
 
-func NewFilterFromValues(m map[string][]string) (*Filter, error) {
-	var filter Filter
+func NewCourseFilterFromValues(m map[string][]string) (*CourseFilter, error) {
+	var filter CourseFilter
 	err := schema.NewDecoder().Decode(&filter, m)
-	return &filter, errors.Wrap(err, "dao.course.Filter: could not decode struct")
+	return &filter, errors.Wrap(err, "dao.course.CourseFilter: could not decode struct")
 }
 
-func (filter *Filter) ToDocument() ([]byte, error) {
+func (filter *CourseFilter) ToDocument() ([]byte, error) {
 	b, err := bson.Marshal(filter)
-	return b, errors.Wrap(err, "dao.course.Filter: could not marshal to document")
+	return b, errors.Wrap(err, "dao.course.CourseFilter: could not marshal to document")
 }
 
-func (filter *Filter) GetOffset() int64 {
+func (filter *CourseFilter) GetOffset() int64 {
 	return filter.Offset
 }
 
-type Dao interface {
-	Filter(ctx context.Context, filter *Filter) ([]Course, error)
-	FindById(ctx context.Context, objId string) (Course, error)
+type CourseDao interface {
+	Filter(ctx context.Context, filter *CourseFilter) ([]Course, error)
+	FindById(ctx context.Context, objId string) (*Course, error)
 }
 
-type daoImpl dao.CollectionHelper[*Filter, Course]
-
-func (dao *daoImpl) Filter(ctx context.Context, filter *Filter) ([]Course, error) {
-	return dao.Filter(ctx, filter)
+type courseDaoImpl struct {
+	helper *collectionHelper[*CourseFilter, Course]
 }
 
-func (dao *daoImpl) FindById(ctx context.Context, id string) (*Course, error) {
-	return dao.FindById(ctx, id)
+func NewCourseDao(coll *mongo.Collection, pageLimit int64) CourseDao {
+	return &courseDaoImpl{helper: newCollectionHelper[*CourseFilter, Course](coll, pageLimit)}
+}
+
+func (dao *courseDaoImpl) Filter(ctx context.Context, filter *CourseFilter) ([]Course, error) {
+	return dao.helper.Filter(ctx, filter)
+}
+
+func (dao *courseDaoImpl) FindById(ctx context.Context, id string) (*Course, error) {
+	return dao.helper.FindById(ctx, id)
 }
