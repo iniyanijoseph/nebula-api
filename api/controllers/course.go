@@ -7,6 +7,7 @@ import (
 
 	"github.com/UTDNebula/nebula-api/api/dao/course"
 	"github.com/UTDNebula/nebula-api/api/responses"
+	"github.com/gorilla/schema"
 	"github.com/pkg/errors"
 
 	"github.com/gin-gonic/gin"
@@ -24,9 +25,9 @@ func (api *CourseAPI) Search(c *gin.Context) {
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
-	filter, err := course.NewFilterFromQueryParams(c.Request.URL.Query())
+	filter, err := course.NewFilterFromValues(c.Request.URL.Query())
 	if err != nil {
-		if _, ok := errors.Cause(err).(*course.InvalidKeyError); ok {
+		if _, ok := errors.Cause(err).(schema.UnknownKeyError); ok {
 			c.JSON(
 				http.StatusBadRequest,
 				responses.CourseResponse{Message: err.Error()},
