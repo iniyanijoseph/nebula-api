@@ -13,14 +13,6 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-type InvalidKeyError struct {
-	schemaErr schema.UnknownKeyError
-}
-
-func (err *InvalidKeyError) Error() string {
-	return fmt.Sprintf("key %v is not a valid filter parameter", err.schemaErr.Key)
-}
-
 type Course map[string]interface{}
 
 // Filter represents the filter parameters for the MongoDB query.
@@ -36,14 +28,12 @@ type Filter struct {
 	LectureContactHours    string `bson:"lecture_contact_hours,omitempty" schema:"lecture_contact_hours,omitempty"`
 	LaboratoryContactHours string `bson:"laboratory_contact_hours,omitempty" schema:"laboratory_contact_hours,omitempty"`
 	OfferingFrequency      string `bson:"offering_frequency,omitempty" schema:"offering_frequency,omitempty"`
+	Offset                 int64  `schema:"offset,omitempty"`
 }
 
 func NewFilterFromQueryParams(m map[string][]string) (*Filter, error) {
 	var filter Filter
 	err := schema.NewDecoder().Decode(&filter, m)
-	if e, ok := err.(schema.UnknownKeyError); ok {
-		return nil, &InvalidKeyError{schemaErr: e}
-	}
 	return &filter, errors.Wrap(err, "dao.course.Filter: could not decode struct")
 }
 
@@ -58,11 +48,11 @@ type Dao interface {
 }
 
 type daoImpl struct {
-	coll *mongo.Collection
-	opts []*options.FindOptions
+	coll     *mongo.Collection
+	pageSize int64
 }
 
-func NewDao(client *mongo.Client, courseCollName string) Dao {
+func NewDao(client *mongo.Client, courseCollName string, pageSize int64) Dao {
 	return &daoImpl{
 		coll: configs.GetCollection(client, courseCollName),
 	}
@@ -74,7 +64,8 @@ func (dao *daoImpl) Filter(ctx context.Context, filter *Filter) ([]Course, error
 		return nil, err
 	}
 
-	cursor, err := dao.coll.Find(ctx, query, dao.opts...)
+	limitOpt := options.Find.SetSkip(filter.Offset).SetLimit(dao.pageSize)
+	cursor, err := dao.coll.Find(ctx, query)
 	if err != nil {
 		return nil, fmt.Errorf("failed to query courses: %v", err)
 	}
